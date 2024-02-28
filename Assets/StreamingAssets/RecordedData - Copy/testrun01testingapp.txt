@@ -1,0 +1,1120 @@
+00 testrun
+00 01
+00 testingapp
+00 Data was recorded 60 times per second
+00 Date and Time: 9/27/2019 2:05:28 PM
+
+00  BertecForcePlate_Recorder = 01
+00  Raft = 02
+00  Tracker = 03
+00  SwayEvent = 21
+
+21 timestamp(ms):78432.86  stage:1 time_period:3 sway_degree:-15 #_of_sways:4 rep:1
+01 timestamp(ms):78456.13 force plate (fx, fy, fz, mx, my, mz):-1.582251,-2.271078,-0.8842773,-5.158508,5.94873,1.069566
+01 timestamp(ms):78477.16 force plate (fx, fy, fz, mx, my, mz):-1.915152,-2.278536,-0.8862305,-5.158508,5.866394,0.9751539
+01 timestamp(ms):78499.15 force plate (fx, fy, fz, mx, my, mz):-1.580544,-2.765219,-0.8847656,-5.033142,5.882263,1.070213
+01 timestamp(ms):78521.33 force plate (fx, fy, fz, mx, my, mz):-1.581305,-2.030912,-0.5102539,-4.962036,5.81601,1.110112
+01 timestamp(ms):78543.23 force plate (fx, fy, fz, mx, my, mz):-1.574827,-2.276991,-0.1362305,-4.950989,5.81665,1.068492
+01 timestamp(ms):78565.55 force plate (fx, fy, fz, mx, my, mz):-0.5078945,-0.6655674,-0.7348633,-2.001404,2.567993,1.132155
+01 timestamp(ms):78588.95 force plate (fx, fy, fz, mx, my, mz):-0.1741581,-0.4140835,-0.921875,-1.961914,2.550201,1.26792
+01 timestamp(ms):78610.81 force plate (fx, fy, fz, mx, my, mz):0.1562901,-0.1724262,-1.105957,-1.920959,2.46579,1.132392
+01 timestamp(ms):78632.62 force plate (fx, fy, fz, mx, my, mz):-0.1840763,-0.4254379,-1.294922,-1.857605,2.482819,1.080414
+01 timestamp(ms):78654.21 force plate (fx, fy, fz, mx, my, mz):3.172659,0.7811852,0.1970215,-0.1626587,1.310303,1.289089
+01 timestamp(ms):78676.96 force plate (fx, fy, fz, mx, my, mz):3.170069,0.7810478,-0.177002,-0.1625366,1.376312,1.288873
+01 timestamp(ms):78699.22 force plate (fx, fy, fz, mx, my, mz):3.16647,1.025806,-0.3640137,-0.1218872,1.409149,1.330065
+01 timestamp(ms):78722.55 force plate (fx, fy, fz, mx, my, mz):3.170069,0.7810478,-0.177002,-0.1625366,1.376312,1.288873
+01 timestamp(ms):78743.18 force plate (fx, fy, fz, mx, my, mz):3.165453,1.02565,-0.3640137,-0.121582,1.342651,1.330224
+01 timestamp(ms):78765.31 force plate (fx, fy, fz, mx, my, mz):1.192097,1.017414,2.27002,0.8294067,2.983154,1.893444
+01 timestamp(ms):78787.63 force plate (fx, fy, fz, mx, my, mz):1.189228,1.26379,2.269043,0.8181763,2.983002,1.935122
+01 timestamp(ms):78809.76 force plate (fx, fy, fz, mx, my, mz):1.189228,1.26379,2.269043,0.8181763,2.983002,1.935122
+01 timestamp(ms):78831.77 force plate (fx, fy, fz, mx, my, mz):1.517197,1.015797,2.459473,0.8822632,3.032074,1.800811
+01 timestamp(ms):78854.07 force plate (fx, fy, fz, mx, my, mz):1.515705,1.018391,2.084473,0.7780151,3.031616,1.801428
+01 timestamp(ms):78877.14 force plate (fx, fy, fz, mx, my, mz):0.1542149,2.188183,2.65918,1.929993,4.332062,1.367636
+01 timestamp(ms):78898.27 force plate (fx, fy, fz, mx, my, mz):-0.1778545,2.177109,2.098633,1.983154,4.34906,1.187922
+01 timestamp(ms):78920.71 force plate (fx, fy, fz, mx, my, mz):-0.1805134,1.931328,2.285156,2.045898,4.315918,1.230655
+01 timestamp(ms):78943.24 force plate (fx, fy, fz, mx, my, mz):-0.5122433,2.416683,2.472168,1.972107,4.333496,1.135167
+01 timestamp(ms):78965.16 force plate (fx, fy, fz, mx, my, mz):-0.5753365,2.385342,0.4321289,1.620056,5.16098,-0.05177593
+01 timestamp(ms):78987.63 force plate (fx, fy, fz, mx, my, mz):-0.5776653,2.389568,-0.1298828,1.463623,5.259979,-0.05104923
+01 timestamp(ms):79009.52 force plate (fx, fy, fz, mx, my, mz):-0.9166756,2.6287,-0.1308594,1.453186,5.17749,-0.1037025
+01 timestamp(ms):79032.04 force plate (fx, fy, fz, mx, my, mz):-0.9119492,2.380844,0.05615234,1.516296,5.144653,-0.145649
+01 timestamp(ms):79054.06 force plate (fx, fy, fz, mx, my, mz):-0.920599,2.373402,0.05712891,1.516968,5.210724,-0.3325853
+01 timestamp(ms):79078.11 force plate (fx, fy, fz, mx, my, mz):-2.224501,0.6893845,3.807373,0.8811646,5.886749,-0.06257057
+01 timestamp(ms):79097.72 force plate (fx, fy, fz, mx, my, mz):-2.887957,0.9291763,3.80542,0.8700562,5.855316,-0.02310181
+01 timestamp(ms):79120.36 force plate (fx, fy, fz, mx, my, mz):-2.882605,0.6861897,4.179443,0.7772217,5.855957,-0.0639677
+01 timestamp(ms):79142.58 force plate (fx, fy, fz, mx, my, mz):-2.552103,0.9378872,3.992432,0.8175659,5.838165,0.07187557
+01 timestamp(ms):79164.7 force plate (fx, fy, fz, mx, my, mz):-2.543177,0.9438705,3.804443,0.8685913,5.871552,0.2581654
+01 timestamp(ms):79186.78 force plate (fx, fy, fz, mx, my, mz):-2.510317,1.670214,3.602539,1.394226,4.973206,0.6514378
+01 timestamp(ms):79209.73 force plate (fx, fy, fz, mx, my, mz):-2.182947,1.678862,3.226563,1.3927,4.988312,0.8304701
+01 timestamp(ms):79231.63 force plate (fx, fy, fz, mx, my, mz):-2.181093,1.677385,3.414063,1.44458,4.955292,0.8302011
+01 timestamp(ms):79254.15 force plate (fx, fy, fz, mx, my, mz):-2.516867,1.916315,3.413574,1.433228,4.872803,0.7774668
+01 timestamp(ms):79277.26 force plate (fx, fy, fz, mx, my, mz):-2.188902,1.668306,3.603516,1.497437,4.921875,0.643158
+01 timestamp(ms):79298.07 force plate (fx, fy, fz, mx, my, mz):3.718969,3.355547,-0.8850098,1.712341,3.198364,-0.8123121
+01 timestamp(ms):79321.76 force plate (fx, fy, fz, mx, my, mz):3.720823,3.354067,-0.6984863,1.764221,3.165344,-0.8125811
+01 timestamp(ms):79342.5 force plate (fx, fy, fz, mx, my, mz):3.721186,3.355173,-0.8859863,1.711731,3.131866,-0.812232
+01 timestamp(ms):79366.51 force plate (fx, fy, fz, mx, my, mz):3.731813,3.352285,-0.3220215,1.76416,3.166077,-0.8972006
+01 timestamp(ms):79386.88 force plate (fx, fy, fz, mx, my, mz):2.368319,4.063189,-0.8723145,1.690613,4.066559,-1.405073
+01 timestamp(ms):79409.69 force plate (fx, fy, fz, mx, my, mz):2.367956,4.062075,-0.6843262,1.743103,4.100037,-1.405421
+01 timestamp(ms):79431.8 force plate (fx, fy, fz, mx, my, mz):2.364618,4.310598,-0.4968262,1.680298,4.19986,-1.363497
+01 timestamp(ms):79454.82 force plate (fx, fy, fz, mx, my, mz):2.36978,4.308886,-0.4958496,1.681152,4.266632,-1.448256
+01 timestamp(ms):79476.88 force plate (fx, fy, fz, mx, my, mz):2.039698,4.553991,-0.685791,1.721619,4.21756,-1.314622
+01 timestamp(ms):79498.06 force plate (fx, fy, fz, mx, my, mz):-0.9080582,2.909142,7.002197,0.4241333,5.919312,-0.4762306
+01 timestamp(ms):79520.27 force plate (fx, fy, fz, mx, my, mz):-1.243908,2.65538,6.627686,0.4362793,5.903168,-0.6124592
+01 timestamp(ms):79542.95 force plate (fx, fy, fz, mx, my, mz):-1.234615,2.661869,6.813232,0.487793,5.937103,-0.4260321
+01 timestamp(ms):79565.23 force plate (fx, fy, fz, mx, my, mz):-1.236835,2.662239,6.814697,0.4884033,6.003571,-0.4261122
+01 timestamp(ms):79587.41 force plate (fx, fy, fz, mx, my, mz):-1.230576,2.908321,7.001709,0.4252319,6.03717,-0.4687853
+01 timestamp(ms):79609.45 force plate (fx, fy, fz, mx, my, mz):-1.278219,-0.6212025,0.2629395,-3.351196,7.295197,0.3727312
+01 timestamp(ms):79631.76 force plate (fx, fy, fz, mx, my, mz):-0.9406185,-0.6107197,0.6369629,-3.45575,7.311523,0.4680328
+01 timestamp(ms):79653.92 force plate (fx, fy, fz, mx, my, mz):-1.27796,-0.6174412,0.6374512,-3.454651,7.362183,0.3734627
+01 timestamp(ms):79676.3 force plate (fx, fy, fz, mx, my, mz):-1.278322,-0.8636093,0.6391602,-3.442383,7.362335,0.3318644
+01 timestamp(ms):79698.3 force plate (fx, fy, fz, mx, my, mz):-1.960024,-1.056009,7.023438,-5.173096,8.337738,0.04789066
+01 timestamp(ms):79720.81 force plate (fx, fy, fz, mx, my, mz):-2.285486,-1.055506,7.022461,-5.173462,8.322357,0.1401739
+01 timestamp(ms):79742.63 force plate (fx, fy, fz, mx, my, mz):-2.279955,-1.056108,6.835938,-5.225098,8.355621,0.05576229
+01 timestamp(ms):79764.98 force plate (fx, fy, fz, mx, my, mz):-1.961512,-1.053423,6.647461,-5.277344,8.33725,0.04850674
+01 timestamp(ms):79788.43 force plate (fx, fy, fz, mx, my, mz):-1.959116,-1.297659,6.836426,-5.317688,8.437439,0.00707531
+01 timestamp(ms):79809.18 force plate (fx, fy, fz, mx, my, mz):-1.704901,-1.465757,-1.772461,-7.798645,9.572968,0.1582279
+01 timestamp(ms):79831.41 force plate (fx, fy, fz, mx, my, mz):-1.704981,-1.713392,-1.958496,-7.734924,9.672577,0.1159849
+01 timestamp(ms):79859.7 force plate (fx, fy, fz, mx, my, mz):-2.03092,-1.710135,-2.334473,-7.840027,9.723145,0.2087259
+01 timestamp(ms):79875.88 force plate (fx, fy, fz, mx, my, mz):-2.369928,-1.471003,-2.334473,-7.850281,9.640656,0.1560707
+01 timestamp(ms):79897.52 force plate (fx, fy, fz, mx, my, mz):-1.711199,-1.462938,-2.52002,-7.902283,9.704987,0.1585484
+01 timestamp(ms):79919.47 force plate (fx, fy, fz, mx, my, mz):-1.094473,-0.4057789,-1.934082,-9.120911,11.96631,0.639873
+01 timestamp(ms):79941.95 force plate (fx, fy, fz, mx, my, mz):-0.7719707,-0.4075375,-2.118652,-9.067932,12.08118,0.5470214
+01 timestamp(ms):79964.22 force plate (fx, fy, fz, mx, my, mz):-0.7712383,-0.40592,-1.931641,-9.119812,12.04822,0.5475068
+01 timestamp(ms):79986.55 force plate (fx, fy, fz, mx, my, mz):-0.7800846,-0.6521397,-2.493652,-9.056641,12.0806,0.5899634
+01 timestamp(ms):80008.45 force plate (fx, fy, fz, mx, my, mz):-1.10306,-0.6482372,-2.121582,-9.161194,12.06561,0.6830602
+01 timestamp(ms):80031.21 force plate (fx, fy, fz, mx, my, mz):-2.785095,-0.8497543,-5.860352,-9.867493,13.84665,1.478097
+01 timestamp(ms):80052.89 force plate (fx, fy, fz, mx, my, mz):-2.786657,-1.09281,-5.674316,-9.908813,13.74704,1.521663
+01 timestamp(ms):80075.41 force plate (fx, fy, fz, mx, my, mz):-2.78618,-1.095552,-5.299316,-9.804321,13.68103,1.521206
+01 timestamp(ms):80097.66 force plate (fx, fy, fz, mx, my, mz):-2.786657,-1.09281,-5.674316,-9.908813,13.74704,1.521663
+01 timestamp(ms):80119.68 force plate (fx, fy, fz, mx, my, mz):1.54825,-0.5669136,-0.8051758,-9.731262,12.49286,1.612608
+01 timestamp(ms):80142.2 force plate (fx, fy, fz, mx, my, mz):1.222788,-0.5664024,-0.8071289,-9.731628,12.47742,1.704892
+01 timestamp(ms):80164.28 force plate (fx, fy, fz, mx, my, mz):1.222136,-0.3203888,-0.809082,-9.743469,12.41077,1.74665
+01 timestamp(ms):80186.6 force plate (fx, fy, fz, mx, my, mz):1.560133,-0.5596848,-0.8071289,-9.732727,12.42676,1.799465
+01 timestamp(ms):80208.66 force plate (fx, fy, fz, mx, my, mz):1.558641,-0.5576973,-0.6191406,-9.784058,12.46027,1.799869
+01 timestamp(ms):80231.05 force plate (fx, fy, fz, mx, my, mz):-0.7882748,-0.7574844,-0.6088867,-10.89716,14.34766,2.325395
+01 timestamp(ms):80252.97 force plate (fx, fy, fz, mx, my, mz):-0.7858753,-0.5160675,-0.6079102,-10.80347,14.34781,2.28172
+01 timestamp(ms):80275.25 force plate (fx, fy, fz, mx, my, mz):-0.7877293,-0.5145874,-0.7954102,-10.85547,14.38083,2.281989
+01 timestamp(ms):80297.88 force plate (fx, fy, fz, mx, my, mz):-0.789587,-0.5131073,-0.9819336,-10.90723,14.41385,2.282256
+01 timestamp(ms):80319.88 force plate (fx, fy, fz, mx, my, mz):-0.7903194,-0.5147247,-1.168945,-10.85541,14.44687,2.28177
+01 timestamp(ms):80342.1 force plate (fx, fy, fz, mx, my, mz):-3.538347,-1.678495,-0.01220703,-12.73297,18.11545,2.363597
+01 timestamp(ms):80364.49 force plate (fx, fy, fz, mx, my, mz):-4.196531,-1.929312,0.1743164,-12.77319,18.18433,2.319961
+01 timestamp(ms):80386.3 force plate (fx, fy, fz, mx, my, mz):-3.872816,-1.931597,-0.01074219,-12.72052,18.16629,2.22735
+01 timestamp(ms):80408.55 force plate (fx, fy, fz, mx, my, mz):-4.200495,-1.930719,-0.01171875,-12.72028,18.21738,2.319555
+01 timestamp(ms):80431.34 force plate (fx, fy, fz, mx, my, mz):-6.283113,-2.373592,0.3857422,-14.85034,20.65125,1.970971
+01 timestamp(ms):80452.9 force plate (fx, fy, fz, mx, my, mz):-6.282747,-2.373087,0.760498,-14.84973,20.65173,1.971107
+01 timestamp(ms):80475.41 force plate (fx, fy, fz, mx, my, mz):-6.285227,-2.376476,0.3862305,-14.74567,20.65121,1.970295
+01 timestamp(ms):80497.55 force plate (fx, fy, fz, mx, my, mz):-6.621363,-2.383722,0.3864746,-14.74493,20.56891,1.875965
+01 timestamp(ms):80519.53 force plate (fx, fy, fz, mx, my, mz):-6.940817,-2.627157,0.9460449,-14.78589,20.65405,1.926875
+01 timestamp(ms):80542.52 force plate (fx, fy, fz, mx, my, mz):-6.405186,-1.9263,-0.7041016,-14.63983,22.7756,0.7599187
+01 timestamp(ms):80564.03 force plate (fx, fy, fz, mx, my, mz):-6.077169,-2.163658,-1.079346,-14.62946,22.85733,0.8971915
+01 timestamp(ms):80586.38 force plate (fx, fy, fz, mx, my, mz):-6.077532,-2.164768,-0.8918457,-14.57697,22.89084,0.8968425
+01 timestamp(ms):80608.45 force plate (fx, fy, fz, mx, my, mz):-6.398474,-1.919949,-0.8928223,-14.58832,22.87552,0.9461265
+01 timestamp(ms):80630.56 force plate (fx, fy, fz, mx, my, mz):-6.733702,-1.923782,-0.892334,-14.69177,22.92615,0.8522315
+01 timestamp(ms):80653.01 force plate (fx, fy, fz, mx, my, mz):-6.134012,-2.009575,-1.999268,-12.71173,23.6185,-0.01021719
+01 timestamp(ms):80674.99 force plate (fx, fy, fz, mx, my, mz):-6.142658,-2.01701,-1.999268,-12.71106,23.68457,-0.1971517
+01 timestamp(ms):80697.98 force plate (fx, fy, fz, mx, my, mz):-6.46874,-2.021378,-2.187744,-12.55566,23.63559,-0.1059451
+01 timestamp(ms):80719.4 force plate (fx, fy, fz, mx, my, mz):-6.46874,-2.021378,-2.187744,-12.55566,23.63559,-0.1059451
+01 timestamp(ms):80741.42 force plate (fx, fy, fz, mx, my, mz):-6.14255,-2.020264,-1.999756,-12.60712,23.61813,-0.1977448
+01 timestamp(ms):80763.73 force plate (fx, fy, fz, mx, my, mz):-9.14349,-1.358715,0.4404297,-11.53778,24.31055,-0.7270446
+01 timestamp(ms):80786.06 force plate (fx, fy, fz, mx, my, mz):-9.139339,-1.115524,0.6293945,-11.49628,24.34412,-0.7703919
+01 timestamp(ms):80808.49 force plate (fx, fy, fz, mx, my, mz):-8.482067,-1.353767,0.6291504,-11.48566,24.24228,-0.7249436
+01 timestamp(ms):80830.7 force plate (fx, fy, fz, mx, my, mz):-8.475334,-1.109837,0.6296387,-11.49725,24.17587,-0.7678638
+01 timestamp(ms):80853.3 force plate (fx, fy, fz, mx, my, mz):-3.523233,-2.011707,0.07226563,-13.38373,23.11243,-1.200383
+01 timestamp(ms):80875.94 force plate (fx, fy, fz, mx, my, mz):-3.525713,-2.015099,-0.302002,-13.27966,23.11197,-1.201194
+01 timestamp(ms):80898.05 force plate (fx, fy, fz, mx, my, mz):-3.188219,-1.515697,-0.1147461,-13.35437,23.09482,-1.107539
+01 timestamp(ms):80920.17 force plate (fx, fy, fz, mx, my, mz):-3.187201,-1.760601,-0.3022461,-13.3949,23.12802,-1.148947
+01 timestamp(ms):80942.62 force plate (fx, fy, fz, mx, my, mz):-3.198973,-1.526024,-0.1120605,-13.24902,23.16086,-1.295148
+01 timestamp(ms):80964.63 force plate (fx, fy, fz, mx, my, mz):-4.197926,-0.8253708,-1.800049,-12.19293,23.54367,-1.089089
+01 timestamp(ms):80987.55 force plate (fx, fy, fz, mx, my, mz):-4.194035,-0.5859413,-1.986328,-12.0481,23.51025,-1.133166
+01 timestamp(ms):81008.79 force plate (fx, fy, fz, mx, my, mz):-4.194794,-0.3372765,-1.424072,-12.1109,23.54416,-1.091027
+01 timestamp(ms):81031.16 force plate (fx, fy, fz, mx, my, mz):-4.191921,-0.5836601,-1.424072,-12.09967,23.54428,-1.132704
+01 timestamp(ms):81053.59 force plate (fx, fy, fz, mx, my, mz):-4.19268,-0.3343925,-1.425049,-12.21545,23.54407,-1.090352
+01 timestamp(ms):81075.52 force plate (fx, fy, fz, mx, my, mz):-1.486509,-2.562195,-0.8793945,-10.83832,21.64136,-0.955339
+01 timestamp(ms):81098.35 force plate (fx, fy, fz, mx, my, mz):-1.159201,-2.564182,-0.6904297,-10.78607,21.62378,-1.047892
+01 timestamp(ms):81120.07 force plate (fx, fy, fz, mx, my, mz):-1.164186,-2.320087,-1.251953,-10.74579,21.58975,-1.006676
+01 timestamp(ms):81142.3 force plate (fx, fy, fz, mx, my, mz):-0.8394566,-2.322208,-1.437012,-10.69342,21.63815,-1.099445
+01 timestamp(ms):81164.63 force plate (fx, fy, fz, mx, my, mz):-0.1469669,-1.196001,0.8061523,-8.264587,20.53979,-1.821295
+01 timestamp(ms):81186.41 force plate (fx, fy, fz, mx, my, mz):-0.4705753,-1.196974,0.9907227,-8.213318,20.49133,-1.729279
+01 timestamp(ms):81208.97 force plate (fx, fy, fz, mx, my, mz):-0.1458454,-1.199099,0.8056641,-8.16095,20.53973,-1.822048
+01 timestamp(ms):81230.96 force plate (fx, fy, fz, mx, my, mz):-0.1468601,-1.199255,0.8056641,-8.160645,20.47324,-1.821888
+01 timestamp(ms):81252.84 force plate (fx, fy, fz, mx, my, mz):-0.4870777,-0.9590015,0.2431641,-8.223755,20.48984,-1.87457
+01 timestamp(ms):81275.4 force plate (fx, fy, fz, mx, my, mz):-1.812216,-1.533899,-0.503418,-6.019714,20.89108,-2.081104
+01 timestamp(ms):81297.6 force plate (fx, fy, fz, mx, my, mz):-1.812948,-1.535517,-0.6904297,-5.967834,20.92416,-2.08159
+01 timestamp(ms):81319.91 force plate (fx, fy, fz, mx, my, mz):-1.811201,-1.533743,-0.503418,-6.02002,20.95764,-2.081264
+01 timestamp(ms):81342.33 force plate (fx, fy, fz, mx, my, mz):-1.809347,-1.535223,-0.3164063,-5.96814,20.92456,-2.081532
+01 timestamp(ms):81364.61 force plate (fx, fy, fz, mx, my, mz):-1.81204,-1.04645,-0.878418,-5.938232,20.95712,-2.083397
+01 timestamp(ms):81387.09 force plate (fx, fy, fz, mx, my, mz):-0.4563351,-0.3737926,0.9943848,-3.276428,20.75537,-1.972625
+01 timestamp(ms):81408.61 force plate (fx, fy, fz, mx, my, mz):-0.793787,0.1089954,0.2463379,-3.29834,20.73849,-2.068633
+01 timestamp(ms):81431.7 force plate (fx, fy, fz, mx, my, mz):-0.7905502,0.1087856,0.2458496,-3.299316,20.73853,-2.068712
+01 timestamp(ms):81453.68 force plate (fx, fy, fz, mx, my, mz):-0.7932072,-0.3820477,0.244873,-3.276733,20.67209,-2.067231
+02 timestamp(ms):78457.56 rotation(x,y,z):0,0,-0.89
+02 timestamp(ms):78477.62 rotation(x,y,z):0,0,-1.82
+02 timestamp(ms):78499.62 rotation(x,y,z):0,0,-2.717
+02 timestamp(ms):78521.81 rotation(x,y,z):0,0,-3.597
+02 timestamp(ms):78543.73 rotation(x,y,z):0,0,-4.484
+02 timestamp(ms):78566.08 rotation(x,y,z):0,0,-5.363
+02 timestamp(ms):78589.43 rotation(x,y,z):0,0,-6.253
+02 timestamp(ms):78611.27 rotation(x,y,z):0,0,-7.177
+02 timestamp(ms):78633.08 rotation(x,y,z):0,0,-8.062
+02 timestamp(ms):78654.7 rotation(x,y,z):0,0,-8.935
+02 timestamp(ms):78677.45 rotation(x,y,z):0,0,-9.808
+02 timestamp(ms):78699.67 rotation(x,y,z):0,0,-10.708
+02 timestamp(ms):78723.02 rotation(x,y,z):0,0,-11.599
+02 timestamp(ms):78743.65 rotation(x,y,z):0,0,-12.532
+02 timestamp(ms):78765.78 rotation(x,y,z):0,0,-13.362
+02 timestamp(ms):78788.1 rotation(x,y,z):0,0,-14.245
+02 timestamp(ms):78810.24 rotation(x,y,z):0,0,-15
+02 timestamp(ms):78832.24 rotation(x,y,z):0,0,-14.118
+02 timestamp(ms):78854.59 rotation(x,y,z):0,0,-13.235
+02 timestamp(ms):78877.61 rotation(x,y,z):0,0,-12.342
+02 timestamp(ms):78898.73 rotation(x,y,z):0,0,-11.433
+02 timestamp(ms):78921.22 rotation(x,y,z):0,0,-10.567
+02 timestamp(ms):78943.72 rotation(x,y,z):0,0,-9.678
+02 timestamp(ms):78965.65 rotation(x,y,z):0,0,-8.779
+02 timestamp(ms):78988.11 rotation(x,y,z):0,0,-7.9
+02 timestamp(ms):79009.98 rotation(x,y,z):0,0,-7.002
+02 timestamp(ms):79032.51 rotation(x,y,z):0,0,-6.126
+02 timestamp(ms):79054.54 rotation(x,y,z):0,0,-5.23
+02 timestamp(ms):79078.59 rotation(x,y,z):0,0,-4.344
+02 timestamp(ms):79098.17 rotation(x,y,z):0,0,-3.392
+02 timestamp(ms):79120.84 rotation(x,y,z):0,0,-2.587
+02 timestamp(ms):79143.08 rotation(x,y,z):0,0,-1.692
+02 timestamp(ms):79165.18 rotation(x,y,z):0,0,-0.806
+02 timestamp(ms):79187.27 rotation(x,y,z):0,0,0
+02 timestamp(ms):79210.18 rotation(x,y,z):0,0,0.887
+02 timestamp(ms):79232.1 rotation(x,y,z):0,0,1.798
+02 timestamp(ms):79254.62 rotation(x,y,z):0,0,2.677
+02 timestamp(ms):79277.73 rotation(x,y,z):0,0,3.579
+02 timestamp(ms):79298.53 rotation(x,y,z):0,0,4.494
+02 timestamp(ms):79322.22 rotation(x,y,z):0,0,5.346
+02 timestamp(ms):79343.11 rotation(x,y,z):0,0,6.274
+02 timestamp(ms):79367.01 rotation(x,y,z):0,0,7.122
+02 timestamp(ms):79387.34 rotation(x,y,z):0,0,8.066
+02 timestamp(ms):79410.18 rotation(x,y,z):0,0,8.896
+02 timestamp(ms):79432.28 rotation(x,y,z):0,0,9.797
+02 timestamp(ms):79455.28 rotation(x,y,z):0,0,10.686
+02 timestamp(ms):79477.37 rotation(x,y,z):0,0,11.595
+02 timestamp(ms):79498.53 rotation(x,y,z):0,0,12.488
+02 timestamp(ms):79520.74 rotation(x,y,z):0,0,13.345
+02 timestamp(ms):79543.45 rotation(x,y,z):0,0,14.224
+02 timestamp(ms):79565.71 rotation(x,y,z):0,0,15
+02 timestamp(ms):79587.88 rotation(x,y,z):0,0,14.106
+02 timestamp(ms):79610.02 rotation(x,y,z):0,0,13.212
+02 timestamp(ms):79632.24 rotation(x,y,z):0,0,12.337
+02 timestamp(ms):79654.4 rotation(x,y,z):0,0,11.444
+02 timestamp(ms):79676.8 rotation(x,y,z):0,0,10.555
+02 timestamp(ms):79698.78 rotation(x,y,z):0,0,9.661
+02 timestamp(ms):79721.27 rotation(x,y,z):0,0,8.78
+02 timestamp(ms):79743.1 rotation(x,y,z):0,0,7.88
+02 timestamp(ms):79765.46 rotation(x,y,z):0,0,7.008
+02 timestamp(ms):79788.9 rotation(x,y,z):0,0,6.114
+02 timestamp(ms):79809.66 rotation(x,y,z):0,0,5.188
+02 timestamp(ms):79831.89 rotation(x,y,z):0,0,4.338
+02 timestamp(ms):79860.19 rotation(x,y,z):0,0,3.456
+02 timestamp(ms):79876.35 rotation(x,y,z):0,0,2.341
+02 timestamp(ms):79897.98 rotation(x,y,z):0,0,1.671
+02 timestamp(ms):79919.95 rotation(x,y,z):0,0,0.811
+02 timestamp(ms):79942.42 rotation(x,y,z):0,0,0
+02 timestamp(ms):79964.68 rotation(x,y,z):0,0,-0.896
+02 timestamp(ms):79987.05 rotation(x,y,z):0,0,-1.79
+02 timestamp(ms):80008.92 rotation(x,y,z):0,0,-2.682
+02 timestamp(ms):80031.68 rotation(x,y,z):0,0,-3.555
+02 timestamp(ms):80053.37 rotation(x,y,z):0,0,-4.469
+02 timestamp(ms):80075.89 rotation(x,y,z):0,0,-5.336
+02 timestamp(ms):80098.13 rotation(x,y,z):0,0,-6.24
+02 timestamp(ms):80120.16 rotation(x,y,z):0,0,-7.128
+02 timestamp(ms):80142.66 rotation(x,y,z):0,0,-8.01
+02 timestamp(ms):80164.78 rotation(x,y,z):0,0,-8.907
+02 timestamp(ms):80187.07 rotation(x,y,z):0,0,-9.793
+02 timestamp(ms):80209.12 rotation(x,y,z):0,0,-10.683
+02 timestamp(ms):80231.52 rotation(x,y,z):0,0,-11.567
+02 timestamp(ms):80253.43 rotation(x,y,z):0,0,-12.462
+02 timestamp(ms):80275.72 rotation(x,y,z):0,0,-13.34
+02 timestamp(ms):80298.34 rotation(x,y,z):0,0,-14.229
+02 timestamp(ms):80320.39 rotation(x,y,z):0,0,-15
+02 timestamp(ms):80342.58 rotation(x,y,z):0,0,-14.117
+02 timestamp(ms):80364.97 rotation(x,y,z):0,0,-13.229
+02 timestamp(ms):80386.77 rotation(x,y,z):0,0,-12.333
+02 timestamp(ms):80409.02 rotation(x,y,z):0,0,-11.46
+02 timestamp(ms):80431.82 rotation(x,y,z):0,0,-10.569
+02 timestamp(ms):80453.38 rotation(x,y,z):0,0,-9.659
+02 timestamp(ms):80475.88 rotation(x,y,z):0,0,-8.796
+02 timestamp(ms):80498 rotation(x,y,z):0,0,-7.897
+02 timestamp(ms):80520.02 rotation(x,y,z):0,0,-7.011
+02 timestamp(ms):80542.98 rotation(x,y,z):0,0,-6.133
+02 timestamp(ms):80564.5 rotation(x,y,z):0,0,-5.216
+02 timestamp(ms):80586.84 rotation(x,y,z):0,0,-4.356
+02 timestamp(ms):80608.93 rotation(x,y,z):0,0,-3.456
+02 timestamp(ms):80631.02 rotation(x,y,z):0,0,-2.575
+02 timestamp(ms):80653.48 rotation(x,y,z):0,0,-1.69
+02 timestamp(ms):80675.47 rotation(x,y,z):0,0,-0.791
+02 timestamp(ms):80698.45 rotation(x,y,z):0,0,0
+02 timestamp(ms):80719.84 rotation(x,y,z):0,0,0.921
+02 timestamp(ms):80741.9 rotation(x,y,z):0,0,1.78
+02 timestamp(ms):80764.2 rotation(x,y,z):0,0,2.663
+02 timestamp(ms):80786.53 rotation(x,y,z):0,0,3.551
+02 timestamp(ms):80808.96 rotation(x,y,z):0,0,4.446
+02 timestamp(ms):80831.18 rotation(x,y,z):0,0,5.344
+02 timestamp(ms):80853.77 rotation(x,y,z):0,0,6.233
+02 timestamp(ms):80876.43 rotation(x,y,z):0,0,7.136
+02 timestamp(ms):80898.53 rotation(x,y,z):0,0,8.038
+02 timestamp(ms):80920.69 rotation(x,y,z):0,0,8.923
+02 timestamp(ms):80943.09 rotation(x,y,z):0,0,9.81
+02 timestamp(ms):80965.09 rotation(x,y,z):0,0,10.708
+02 timestamp(ms):80988.03 rotation(x,y,z):0,0,11.589
+02 timestamp(ms):81009.27 rotation(x,y,z):0,0,12.505
+02 timestamp(ms):81031.63 rotation(x,y,z):0,0,13.356
+02 timestamp(ms):81054.08 rotation(x,y,z):0,0,14.244
+02 timestamp(ms):81076 rotation(x,y,z):0,0,15
+02 timestamp(ms):81098.82 rotation(x,y,z):0,0,14.124
+02 timestamp(ms):81120.55 rotation(x,y,z):0,0,13.21
+02 timestamp(ms):81142.78 rotation(x,y,z):0,0,12.342
+02 timestamp(ms):81165.11 rotation(x,y,z):0,0,11.456
+02 timestamp(ms):81186.89 rotation(x,y,z):0,0,10.559
+02 timestamp(ms):81209.42 rotation(x,y,z):0,0,9.69
+02 timestamp(ms):81231.41 rotation(x,y,z):0,0,8.785
+02 timestamp(ms):81253.31 rotation(x,y,z):0,0,7.905
+02 timestamp(ms):81275.88 rotation(x,y,z):0,0,7.03
+02 timestamp(ms):81298.07 rotation(x,y,z):0,0,6.129
+02 timestamp(ms):81320.39 rotation(x,y,z):0,0,5.243
+02 timestamp(ms):81342.8 rotation(x,y,z):0,0,4.348
+02 timestamp(ms):81365.08 rotation(x,y,z):0,0,3.451
+02 timestamp(ms):81387.58 rotation(x,y,z):0,0,2.563
+02 timestamp(ms):81409.09 rotation(x,y,z):0,0,1.661
+02 timestamp(ms):81432.16 rotation(x,y,z):0,0,0.803
+02 timestamp(ms):81454.16 rotation(x,y,z):0,0,0
+03 timestamp(ms):78458.02 rotation(x,y,z):39.766,-83.678,3.15
+03 timestamp(ms):78477.66 rotation(x,y,z):39.03,-83.67,3.186
+03 timestamp(ms):78499.66 rotation(x,y,z):39.339,-83.17,3.02
+03 timestamp(ms):78521.85 rotation(x,y,z):40.262,-82.652,2.906
+03 timestamp(ms):78543.78 rotation(x,y,z):40.596,-82.759,3.03
+03 timestamp(ms):78566.12 rotation(x,y,z):40.193,-83.363,3.615
+03 timestamp(ms):78589.48 rotation(x,y,z):39.201,-83.895,3.945
+03 timestamp(ms):78611.31 rotation(x,y,z):39.03,-83.553,3.975
+03 timestamp(ms):78633.12 rotation(x,y,z):39.325,-83.363,4.244
+03 timestamp(ms):78654.74 rotation(x,y,z):39.269,-83.831,4.344
+03 timestamp(ms):78677.48 rotation(x,y,z):38.906,-83.219,3.81
+03 timestamp(ms):78699.7 rotation(x,y,z):38.994,-82.521,3.599
+03 timestamp(ms):78723.05 rotation(x,y,z):39.272,-82.611,3.845
+03 timestamp(ms):78743.68 rotation(x,y,z):39.434,-83.279,4.025
+03 timestamp(ms):78765.82 rotation(x,y,z):39.422,-83.204,3.877
+03 timestamp(ms):78788.14 rotation(x,y,z):39.943,-82.686,3.844
+03 timestamp(ms):78810.28 rotation(x,y,z):40.411,-82.706,4.079
+03 timestamp(ms):78832.28 rotation(x,y,z):40.681,-83.031,4.248
+03 timestamp(ms):78854.63 rotation(x,y,z):40.61,-82.754,4.366
+03 timestamp(ms):78877.65 rotation(x,y,z):40.406,-82.546,4.136
+03 timestamp(ms):78898.77 rotation(x,y,z):40.528,-82.514,4.29
+03 timestamp(ms):78921.26 rotation(x,y,z):40.455,-82.766,4.445
+03 timestamp(ms):78943.76 rotation(x,y,z):40.286,-82.782,4.634
+03 timestamp(ms):78965.69 rotation(x,y,z):39.826,-82.854,4.728
+03 timestamp(ms):78988.14 rotation(x,y,z):39.758,-82.834,4.705
+03 timestamp(ms):79010.02 rotation(x,y,z):39.901,-82.944,4.886
+03 timestamp(ms):79032.55 rotation(x,y,z):39.997,-83.201,5.027
+03 timestamp(ms):79054.58 rotation(x,y,z):39.982,-82.975,4.855
+03 timestamp(ms):79078.61 rotation(x,y,z):39.882,-82.282,4.49
+03 timestamp(ms):79098.21 rotation(x,y,z):39.964,-81.897,3.897
+03 timestamp(ms):79120.88 rotation(x,y,z):40.568,-81.721,3.665
+03 timestamp(ms):79143.12 rotation(x,y,z):40.778,-81.832,3.23
+03 timestamp(ms):79165.21 rotation(x,y,z):40.474,-80.715,1.721
+03 timestamp(ms):79187.31 rotation(x,y,z):39.939,-78.052,-0.315
+03 timestamp(ms):79210.21 rotation(x,y,z):39.607,-76.996,-1.973
+03 timestamp(ms):79232.14 rotation(x,y,z):39.801,-78.228,-2.251
+03 timestamp(ms):79254.66 rotation(x,y,z):41.297,-79.974,-2.266
+03 timestamp(ms):79277.77 rotation(x,y,z):42.552,-79.406,-3.683
+03 timestamp(ms):79298.57 rotation(x,y,z):42.79,-77.834,-5.954
+03 timestamp(ms):79322.26 rotation(x,y,z):42.332,-77.246,-8.299
+03 timestamp(ms):79343.15 rotation(x,y,z):41.611,-76.682,-11.442
+03 timestamp(ms):79367.04 rotation(x,y,z):42.901,-75.93,-11.999
+03 timestamp(ms):79387.38 rotation(x,y,z):44.136,-76.189,-11.09
+03 timestamp(ms):79410.22 rotation(x,y,z):44.394,-79.306,-8.169
+03 timestamp(ms):79432.32 rotation(x,y,z):43.299,-85.001,-4.397
+03 timestamp(ms):79455.32 rotation(x,y,z):40.51,-92.63,1.967
+03 timestamp(ms):79477.4 rotation(x,y,z):38.895,97.373,10.52
+03 timestamp(ms):79498.57 rotation(x,y,z):40.859,94.22,21.645
+03 timestamp(ms):79520.78 rotation(x,y,z):43.07,93.914,33.658
+03 timestamp(ms):79543.48 rotation(x,y,z):33.689,95.308,38.476
+03 timestamp(ms):79565.75 rotation(x,y,z):24.691,87.253,26.351
+03 timestamp(ms):79587.92 rotation(x,y,z):27.647,76.451,14.242
+03 timestamp(ms):79610.06 rotation(x,y,z):43.355,75.059,4.281
+03 timestamp(ms):79632.28 rotation(x,y,z):49.987,90.146,4.967
+03 timestamp(ms):79654.44 rotation(x,y,z):40.339,-96.457,16.581
+03 timestamp(ms):79676.84 rotation(x,y,z):35.463,-94.288,26.5
+03 timestamp(ms):79698.82 rotation(x,y,z):32.797,-96.11,33.417
+03 timestamp(ms):79721.3 rotation(x,y,z):31.548,97.038,37.288
+03 timestamp(ms):79743.14 rotation(x,y,z):28.708,93.823,39.555
+03 timestamp(ms):79765.5 rotation(x,y,z):25.697,92.546,41.291
+03 timestamp(ms):79788.94 rotation(x,y,z):24.993,93.862,42.291
+03 timestamp(ms):79809.7 rotation(x,y,z):26.282,96.248,42.016
+03 timestamp(ms):79831.93 rotation(x,y,z):27.215,96.198,40.445
+03 timestamp(ms):79860.23 rotation(x,y,z):26.6,95.24,40.54
+03 timestamp(ms):79876.4 rotation(x,y,z):24.396,94.548,41.897
+03 timestamp(ms):79898.02 rotation(x,y,z):21.048,94.113,38.583
+03 timestamp(ms):79919.98 rotation(x,y,z):16.351,94.132,34.794
+03 timestamp(ms):79942.46 rotation(x,y,z):11.589,94.8,30.195
+03 timestamp(ms):79964.71 rotation(x,y,z):8.349,96.248,26.224
+03 timestamp(ms):79987.09 rotation(x,y,z):8.713,97.596,27.326
+03 timestamp(ms):80008.95 rotation(x,y,z):11.435,95.208,36.572
+03 timestamp(ms):80031.72 rotation(x,y,z):14.253,92.903,38.143
+03 timestamp(ms):80053.41 rotation(x,y,z):17.326,97.116,34.158
+03 timestamp(ms):80075.92 rotation(x,y,z):16.4,-92.212,36.026
+03 timestamp(ms):80098.16 rotation(x,y,z):9.117,-88.616,41.141
+03 timestamp(ms):80120.2 rotation(x,y,z):4.991,-93.726,41.882
+03 timestamp(ms):80142.7 rotation(x,y,z):2.626,87.49,37.413
+03 timestamp(ms):80164.82 rotation(x,y,z):1.266,66.026,25.767
+03 timestamp(ms):80187.11 rotation(x,y,z):2.042,42.064,9.664
+03 timestamp(ms):80209.15 rotation(x,y,z):8.594,25.204,4.247
+03 timestamp(ms):80231.56 rotation(x,y,z):16.399,33.714,0.293
+03 timestamp(ms):80253.47 rotation(x,y,z):17.561,39.065,0.197
+03 timestamp(ms):80275.76 rotation(x,y,z):15.193,39.789,1.15
+03 timestamp(ms):80298.38 rotation(x,y,z):12.617,39.464,0.456
+03 timestamp(ms):80320.44 rotation(x,y,z):4.13,58.055,1.68
+03 timestamp(ms):80342.61 rotation(x,y,z):5.315,61.646,1.933
+03 timestamp(ms):80365.01 rotation(x,y,z):3.966,57.53,2.295
+03 timestamp(ms):80386.82 rotation(x,y,z):6.107,54.475,0.717
+03 timestamp(ms):80409.05 rotation(x,y,z):7.011,52.788,2.859
+03 timestamp(ms):80431.86 rotation(x,y,z):9.011,56.036,0.684
+03 timestamp(ms):80453.41 rotation(x,y,z):10.644,55.47,3.454
+03 timestamp(ms):80475.92 rotation(x,y,z):10.592,47.582,9.486
+03 timestamp(ms):80498.04 rotation(x,y,z):9.856,51.658,7.875
+03 timestamp(ms):80520.05 rotation(x,y,z):11.46,63.403,2.911
+03 timestamp(ms):80543.02 rotation(x,y,z):11.183,67.099,4.137
+03 timestamp(ms):80564.54 rotation(x,y,z):9.059,58.622,1.618
+03 timestamp(ms):80586.88 rotation(x,y,z):8.326,54.974,4.783
+03 timestamp(ms):80608.97 rotation(x,y,z):7.486,54.764,5.836
+03 timestamp(ms):80631.05 rotation(x,y,z):7.019,57.097,4.821
+03 timestamp(ms):80653.52 rotation(x,y,z):5.905,57.507,4.426
+03 timestamp(ms):80675.51 rotation(x,y,z):5.747,58.323,4.811
+03 timestamp(ms):80698.48 rotation(x,y,z):5.549,58.715,5.597
+03 timestamp(ms):80719.88 rotation(x,y,z):5.477,61.055,7.411
+03 timestamp(ms):80741.94 rotation(x,y,z):4.84,63.595,10.332
+03 timestamp(ms):80764.23 rotation(x,y,z):3.429,62.891,14.332
+03 timestamp(ms):80786.57 rotation(x,y,z):1.697,60.787,17.858
+03 timestamp(ms):80808.99 rotation(x,y,z):0.21,58.054,21.735
+03 timestamp(ms):80831.22 rotation(x,y,z):-1.566,49.003,30.535
+03 timestamp(ms):80853.8 rotation(x,y,z):-1.853,38.43,42.496
+03 timestamp(ms):80876.47 rotation(x,y,z):-2.581,35.891,48.943
+03 timestamp(ms):80898.57 rotation(x,y,z):-3.474,34.773,52.472
+03 timestamp(ms):80920.73 rotation(x,y,z):-1.85,29.047,56.974
+03 timestamp(ms):80943.13 rotation(x,y,z):-0.536,26.265,56.505
+03 timestamp(ms):80965.13 rotation(x,y,z):-0.513,27.16,53.494
+03 timestamp(ms):80988.07 rotation(x,y,z):-0.366,29.781,48.868
+03 timestamp(ms):81009.29 rotation(x,y,z):-0.372,32.871,43.73
+03 timestamp(ms):81031.67 rotation(x,y,z):-0.351,36.349,39.397
+03 timestamp(ms):81054.11 rotation(x,y,z):-0.87,42.177,33.909
+03 timestamp(ms):81076.03 rotation(x,y,z):-1.001,46.957,28.098
+03 timestamp(ms):81098.86 rotation(x,y,z):-0.291,47.146,25.481
+03 timestamp(ms):81120.59 rotation(x,y,z):0.067,42.411,26.91
+03 timestamp(ms):81142.82 rotation(x,y,z):0.41,38.579,27.004
+03 timestamp(ms):81165.15 rotation(x,y,z):0.165,36.689,24.728
+03 timestamp(ms):81186.93 rotation(x,y,z):-3.828,40.564,20.422
+03 timestamp(ms):81209.46 rotation(x,y,z):-4.028,44.286,15.694
+03 timestamp(ms):81231.45 rotation(x,y,z):-2.955,49.531,8.369
+03 timestamp(ms):81253.35 rotation(x,y,z):-2.447,53.609,3.447
+03 timestamp(ms):81275.91 rotation(x,y,z):-2.687,54.014,1.562
+03 timestamp(ms):81298.12 rotation(x,y,z):-2.715,54.016,1.431
+03 timestamp(ms):81320.43 rotation(x,y,z):-4.303,54.896,3.915
+03 timestamp(ms):81342.84 rotation(x,y,z):-3.284,55.925,7.956
+03 timestamp(ms):81365.12 rotation(x,y,z):-3.54,54.357,10.035
+03 timestamp(ms):81387.62 rotation(x,y,z):-3.935,51.02,10.354
+03 timestamp(ms):81409.14 rotation(x,y,z):-3.078,51.866,15.895
+03 timestamp(ms):81432.2 rotation(x,y,z):-3.621,48.375,18.276
+03 timestamp(ms):81454.2 rotation(x,y,z):-3.031,47.709,22.313
+21E timestamp(ms):81512.14  stage:1 time_period:3 sway_degree:-15 #_of_sways:4 rep:1
+21 timestamp(ms):84230.65  stage:2 time_period:5 sway_degree:-45 #_of_sways:4 rep:2
+01 timestamp(ms):84253.09 force plate (fx, fy, fz, mx, my, mz):-2.56307,1.897264,1.118408,7.637756,-17.4447,-1.037515
+01 timestamp(ms):84274.3 force plate (fx, fy, fz, mx, my, mz):-2.234125,2.385958,1.307373,7.667786,-17.46231,-1.131389
+01 timestamp(ms):84297.46 force plate (fx, fy, fz, mx, my, mz):-1.906389,2.395113,1.306396,7.666931,-17.44675,-0.9522219
+01 timestamp(ms):84318.33 force plate (fx, fy, fz, mx, my, mz):-2.241659,1.894751,1.681396,7.794006,-17.4621,-1.046008
+01 timestamp(ms):84340.61 force plate (fx, fy, fz, mx, my, mz):-1.522953,4.267046,2.602051,10.31403,-18.99396,-1.000152
+01 timestamp(ms):84362.83 force plate (fx, fy, fz, mx, my, mz):-1.522591,4.268156,2.414063,10.26154,-19.02744,-0.9998035
+01 timestamp(ms):84385.07 force plate (fx, fy, fz, mx, my, mz):-1.523321,4.266539,2.227051,10.31335,-18.99445,-1.000289
+01 timestamp(ms):84407.42 force plate (fx, fy, fz, mx, my, mz):-1.519724,4.267435,2.038574,10.25995,-19.02792,-1.000019
+01 timestamp(ms):84429.23 force plate (fx, fy, fz, mx, my, mz):-1.519617,4.264181,2.039063,10.36401,-19.09442,-1.000614
+01 timestamp(ms):84451.49 force plate (fx, fy, fz, mx, my, mz):1.565138,5.414543,4.255859,13.18091,-22.61038,-0.9089851
+01 timestamp(ms):84473.57 force plate (fx, fy, fz, mx, my, mz):1.559973,5.416252,4.255859,13.17993,-22.67722,-0.8242292
+01 timestamp(ms):84495.93 force plate (fx, fy, fz, mx, my, mz):1.565973,5.658569,4.067383,13.22003,-22.71057,-0.8676329
+01 timestamp(ms):84518 force plate (fx, fy, fz, mx, my, mz):1.893648,5.657692,4.067871,13.22003,-22.76157,-0.9598389
+01 timestamp(ms):84540.48 force plate (fx, fy, fz, mx, my, mz):1.559649,5.647499,4.066162,13.32416,-22.77747,-1.055084
+01 timestamp(ms):84562.34 force plate (fx, fy, fz, mx, my, mz):6.981615,5.180092,1.401367,14.22656,-27.11969,-0.1567907
+01 timestamp(ms):84585.13 force plate (fx, fy, fz, mx, my, mz):6.980814,4.932827,1.774414,14.34119,-27.18585,-0.1143274
+01 timestamp(ms):84606.96 force plate (fx, fy, fz, mx, my, mz):7.297823,4.924189,1.776855,14.34222,-27.3038,-0.3931484
+01 timestamp(ms):84629.49 force plate (fx, fy, fz, mx, my, mz):7.307108,4.931282,1.399902,14.34064,-27.30386,-0.2065105
+01 timestamp(ms):84651.54 force plate (fx, fy, fz, mx, my, mz):7.308233,4.928188,1.400391,14.44446,-27.30389,-0.2072639
+01 timestamp(ms):84674.09 force plate (fx, fy, fz, mx, my, mz):11.05179,4.492342,-0.3205566,13.23096,-31.22379,0.08191776
+01 timestamp(ms):84696.06 force plate (fx, fy, fz, mx, my, mz):11.04699,4.494545,0.05297852,13.23071,-31.29007,0.1668129
+01 timestamp(ms):84718.31 force plate (fx, fy, fz, mx, my, mz):11.37431,4.492554,0.2414551,13.28308,-31.30762,0.07426071
+01 timestamp(ms):84740.39 force plate (fx, fy, fz, mx, my, mz):11.38618,4.499786,0.2390137,13.28137,-31.37369,0.2611141
+01 timestamp(ms):84762.48 force plate (fx, fy, fz, mx, my, mz):11.49355,2.409891,1.88623,10.18976,-34.12866,1.185452
+01 timestamp(ms):84784.48 force plate (fx, fy, fz, mx, my, mz):11.48538,2.155241,1.514648,10.20154,-34.19586,0.9570236
+01 timestamp(ms):84806.97 force plate (fx, fy, fz, mx, my, mz):11.15253,2.157827,1.510742,10.20093,-34.21158,1.133984
+01 timestamp(ms):84829.21 force plate (fx, fy, fz, mx, my, mz):11.47687,2.160414,1.513184,10.09766,-34.19614,1.042455
+01 timestamp(ms):84851.41 force plate (fx, fy, fz, mx, my, mz):11.47687,2.160414,1.513184,10.09766,-34.19614,1.042455
+01 timestamp(ms):84873.63 force plate (fx, fy, fz, mx, my, mz):9.200987,0.07718849,2.432129,6.095093,-34.73337,1.615355
+01 timestamp(ms):84895.66 force plate (fx, fy, fz, mx, my, mz):9.202841,0.07570839,2.618652,6.147095,-34.76639,1.615088
+01 timestamp(ms):84917.8 force plate (fx, fy, fz, mx, my, mz):9.199972,0.07703209,2.432129,6.095398,-34.79984,1.615514
+01 timestamp(ms):84940.12 force plate (fx, fy, fz, mx, my, mz):9.199972,0.07703209,2.432129,6.095398,-34.79984,1.615514
+01 timestamp(ms):84962.57 force plate (fx, fy, fz, mx, my, mz):9.204855,0.3218479,2.808105,6.085083,-34.79926,1.572652
+01 timestamp(ms):84985.58 force plate (fx, fy, fz, mx, my, mz):7.543562,-0.4799442,-1.126953,8.244629,-33.98474,1.958325
+01 timestamp(ms):85006.71 force plate (fx, fy, fz, mx, my, mz):7.546064,-0.727438,-0.9384766,8.308228,-33.95111,1.916299
+01 timestamp(ms):85029.48 force plate (fx, fy, fz, mx, my, mz):7.54497,-0.7301693,-0.9375,8.412537,-33.88461,1.915465
+01 timestamp(ms):85051.76 force plate (fx, fy, fz, mx, my, mz):7.5385,-0.4840794,-1.3125,8.401672,-33.88522,1.957085
+01 timestamp(ms):85074.21 force plate (fx, fy, fz, mx, my, mz):7.21443,-0.4829082,-0.9399414,8.40155,-33.83368,2.049347
+01 timestamp(ms):85096.88 force plate (fx, fy, fz, mx, my, mz):6.877146,0.8975582,5.258789,11.4162,-32.74533,1.742813
+01 timestamp(ms):85118.66 force plate (fx, fy, fz, mx, my, mz):6.543146,0.8873672,5.258789,11.52045,-32.76114,1.647568
+01 timestamp(ms):85141.44 force plate (fx, fy, fz, mx, my, mz):6.543512,0.8884773,5.070801,11.46796,-32.79462,1.647916
+01 timestamp(ms):85163.13 force plate (fx, fy, fz, mx, my, mz):7.210459,1.13789,5.260742,11.50861,-32.7962,1.606856
+01 timestamp(ms):85185.19 force plate (fx, fy, fz, mx, my, mz):6.200823,3.021971,9.024658,13.72235,-31.4426,1.21652
+01 timestamp(ms):85207.41 force plate (fx, fy, fz, mx, my, mz):5.867453,3.016653,9.21167,13.67065,-31.42499,1.122355
+01 timestamp(ms):85229.8 force plate (fx, fy, fz, mx, my, mz):6.19668,2.77817,9.398682,13.73401,-31.44226,1.259659
+01 timestamp(ms):85252.05 force plate (fx, fy, fz, mx, my, mz):6.204973,3.265169,9.212646,13.76385,-31.409,1.173173
+01 timestamp(ms):85274.8 force plate (fx, fy, fz, mx, my, mz):5.874636,3.020258,9.398682,13.82697,-31.39108,1.308107
+01 timestamp(ms):85296.59 force plate (fx, fy, fz, mx, my, mz):5.786291,2.971453,10.18823,15.41718,-28.13187,0.6655684
+01 timestamp(ms):85319.63 force plate (fx, fy, fz, mx, my, mz):5.7861,3.212742,9.81665,15.51093,-28.06573,0.6216779
+01 timestamp(ms):85340.41 force plate (fx, fy, fz, mx, my, mz):5.789122,3.704693,9.629395,15.43591,-28.03278,0.6205454
+01 timestamp(ms):85363 force plate (fx, fy, fz, mx, my, mz):5.447622,3.454784,9.440918,15.39551,-28.01572,0.5693216
+01 timestamp(ms):85385.01 force plate (fx, fy, fz, mx, my, mz):5.446417,3.455311,9.442383,15.39581,-27.88272,0.5690823
+01 timestamp(ms):85407.2 force plate (fx, fy, fz, mx, my, mz):3.649771,3.892841,-4.386963,15.59515,-24.58804,-0.2714043
+01 timestamp(ms):85429.63 force plate (fx, fy, fz, mx, my, mz):3.6527,3.656506,-4.388916,15.6059,-24.52127,-0.04170895
+01 timestamp(ms):85451.8 force plate (fx, fy, fz, mx, my, mz):3.654448,3.658279,-4.201904,15.55371,-24.48779,-0.04138279
+01 timestamp(ms):85474.2 force plate (fx, fy, fz, mx, my, mz):3.656736,3.90295,-4.200439,15.54346,-24.42117,-0.08446312
+01 timestamp(ms):85496.08 force plate (fx, fy, fz, mx, my, mz):0.8929424,3.385015,-6.603516,14.40192,-21.85678,-1.444613
+01 timestamp(ms):85518.16 force plate (fx, fy, fz, mx, my, mz):0.9003277,3.382948,-6.601563,14.40216,-21.85651,-1.52929
+01 timestamp(ms):85540.59 force plate (fx, fy, fz, mx, my, mz):0.8935986,3.139009,-6.602051,14.41388,-21.79013,-1.486371
+01 timestamp(ms):85562.65 force plate (fx, fy, fz, mx, my, mz):0.569994,3.138033,-6.416504,14.46527,-21.83859,-1.394358
+01 timestamp(ms):85585.27 force plate (fx, fy, fz, mx, my, mz):0.8999653,3.381838,-6.413574,14.45465,-21.82303,-1.529638
+01 timestamp(ms):85607.2 force plate (fx, fy, fz, mx, my, mz):2.20149,2.917669,-5.096436,13.49506,-21.85892,-1.97437
+01 timestamp(ms):85629.6 force plate (fx, fy, fz, mx, my, mz):2.525831,2.920263,-5.093994,13.39185,-21.84344,-2.065901
+01 timestamp(ms):85651.51 force plate (fx, fy, fz, mx, my, mz):2.524813,3.165159,-4.907471,13.43237,-21.87662,-2.024492
+01 timestamp(ms):85674.57 force plate (fx, fy, fz, mx, my, mz):2.526564,2.921879,-4.906982,13.33997,-21.87646,-2.065415
+01 timestamp(ms):85696.12 force plate (fx, fy, fz, mx, my, mz):2.531073,3.166187,-4.906982,13.32898,-21.87634,-2.108415
+01 timestamp(ms):85717.98 force plate (fx, fy, fz, mx, my, mz):2.572615,0.3189507,1.089111,11.91687,-21.33307,-1.221006
+01 timestamp(ms):85740.38 force plate (fx, fy, fz, mx, my, mz):2.570112,0.5664406,0.9016113,11.85315,-21.3667,-1.17898
+01 timestamp(ms):85762.84 force plate (fx, fy, fz, mx, my, mz):2.568365,0.5646667,0.7145996,11.90527,-21.40018,-1.179306
+01 timestamp(ms):85784.67 force plate (fx, fy, fz, mx, my, mz):2.24716,0.3194618,1.087158,11.91638,-21.34851,-1.128721
+01 timestamp(ms):85806.96 force plate (fx, fy, fz, mx, my, mz):2.574106,0.316967,0.9016113,11.96826,-21.36658,-1.221412
+01 timestamp(ms):85829.18 force plate (fx, fy, fz, mx, my, mz):3.600183,1.579996,1.638184,11.38177,-22.51578,-0.7240639
+01 timestamp(ms):85851.75 force plate (fx, fy, fz, mx, my, mz):3.27833,1.335749,1.823242,11.34082,-22.56406,-0.6729708
+01 timestamp(ms):85873.62 force plate (fx, fy, fz, mx, my, mz):3.596766,1.338415,1.636719,11.28833,-22.58237,-0.6802311
+01 timestamp(ms):85895.68 force plate (fx, fy, fz, mx, my, mz):3.598619,1.336935,1.823242,11.34033,-22.61539,-0.6805
+01 timestamp(ms):85917.78 force plate (fx, fy, fz, mx, my, mz):4.896177,-0.7286663,-0.4194336,6.66626,-22.6868,-1.017169
+01 timestamp(ms):85940.1 force plate (fx, fy, fz, mx, my, mz):4.569597,-0.7250633,-0.4204102,6.562134,-22.70221,-0.9241295
+01 timestamp(ms):85962.52 force plate (fx, fy, fz, mx, my, mz):4.897532,-0.7221832,-0.04541016,6.458496,-22.68631,-1.015603
+01 timestamp(ms):85984.62 force plate (fx, fy, fz, mx, my, mz):4.897894,-0.7210732,-0.2329102,6.406006,-22.71979,-1.015255
+01 timestamp(ms):86006.91 force plate (fx, fy, fz, mx, my, mz):4.893278,-0.4764709,-0.4199219,6.44696,-22.75342,-0.9739027
+01 timestamp(ms):86028.84 force plate (fx, fy, fz, mx, my, mz):4.193441,0.01844597,-0.4116211,5.60321,-22.18674,-1.430348
+01 timestamp(ms):86052.2 force plate (fx, fy, fz, mx, my, mz):4.207609,0.2703533,-0.4125977,5.591248,-22.18619,-1.286572
+01 timestamp(ms):86073.44 force plate (fx, fy, fz, mx, my, mz):4.192709,0.01682854,-0.5986328,5.655029,-22.15375,-1.430834
+01 timestamp(ms):86096.17 force plate (fx, fy, fz, mx, my, mz):4.191977,0.01521111,-0.7858887,5.706909,-22.12073,-1.431319
+01 timestamp(ms):86117.65 force plate (fx, fy, fz, mx, my, mz):4.19824,0.01623726,-0.7841797,5.603394,-22.12042,-1.515243
+01 timestamp(ms):86140.13 force plate (fx, fy, fz, mx, my, mz):4.19779,0.7040691,3.531494,6.877075,-21.94955,-1.941163
+01 timestamp(ms):86162.5 force plate (fx, fy, fz, mx, my, mz):3.865068,0.4527416,3.719482,6.837341,-21.86526,-2.077087
+01 timestamp(ms):86184.73 force plate (fx, fy, fz, mx, my, mz):4.196695,0.4562893,3.345459,6.941162,-21.91635,-1.983247
+01 timestamp(ms):86206.6 force plate (fx, fy, fz, mx, my, mz):4.193541,0.9491787,3.718262,6.918579,-21.9827,-1.899675
+01 timestamp(ms):86229.09 force plate (fx, fy, fz, mx, my, mz):3.858328,-0.2734566,0.1538086,6.707153,-22.03595,-1.761202
+01 timestamp(ms):86251.49 force plate (fx, fy, fz, mx, my, mz):4.188833,-0.02175903,-0.03222656,6.747437,-22.05374,-1.625358
+01 timestamp(ms):86273.31 force plate (fx, fy, fz, mx, my, mz):4.851156,-0.01340103,0.1567383,6.695313,-21.98895,-1.622828
+01 timestamp(ms):86295.5 force plate (fx, fy, fz, mx, my, mz):4.525591,-0.009643555,0.1542969,6.590881,-21.9379,-1.529947
+01 timestamp(ms):86317.71 force plate (fx, fy, fz, mx, my, mz):3.86585,-0.01786423,0.3398438,6.643127,-22.06873,-1.532264
+01 timestamp(ms):86339.98 force plate (fx, fy, fz, mx, my, mz):1.530981,0.9362164,0.536377,7.391968,-20.48157,-1.354776
+01 timestamp(ms):86362.41 force plate (fx, fy, fz, mx, my, mz):1.529127,0.9376926,0.3498535,7.340088,-20.44855,-1.354507
+01 timestamp(ms):86384.89 force plate (fx, fy, fz, mx, my, mz):1.205526,0.9367237,0.5344238,7.391479,-20.49701,-1.262491
+01 timestamp(ms):86406.98 force plate (fx, fy, fz, mx, my, mz):1.530981,0.9362164,0.536377,7.391968,-20.48157,-1.354776
+01 timestamp(ms):86428.97 force plate (fx, fy, fz, mx, my, mz):1.192984,1.175501,0.5354004,7.381226,-20.49756,-1.407589
+01 timestamp(ms):86451.08 force plate (fx, fy, fz, mx, my, mz):1.876057,0.6910629,0.1538086,7.603149,-21.06512,-1.133531
+01 timestamp(ms):86473.39 force plate (fx, fy, fz, mx, my, mz):1.878712,0.9368515,-0.03271484,7.540405,-21.03195,-1.176262
+01 timestamp(ms):86496.21 force plate (fx, fy, fz, mx, my, mz):1.876057,0.6910629,0.1538086,7.603149,-21.06512,-1.133531
+01 timestamp(ms):86517.88 force plate (fx, fy, fz, mx, my, mz):1.876057,0.6910629,0.1538086,7.603149,-21.06512,-1.133531
+01 timestamp(ms):86539.95 force plate (fx, fy, fz, mx, my, mz):1.898092,1.453741,-0.04174805,7.199951,-21.43069,-0.6320171
+01 timestamp(ms):86562.9 force plate (fx, fy, fz, mx, my, mz):1.565844,1.200274,-0.04174805,7.21167,-21.44641,-0.7681847
+01 timestamp(ms):86584.84 force plate (fx, fy, fz, mx, my, mz):1.564096,1.1985,-0.2287598,7.263855,-21.47989,-0.7685108
+01 timestamp(ms):86606.51 force plate (fx, fy, fz, mx, my, mz):1.564096,1.1985,-0.2287598,7.263855,-21.47989,-0.7685108
+01 timestamp(ms):86628.61 force plate (fx, fy, fz, mx, my, mz):1.559584,0.9541912,-0.2297363,7.274841,-21.48001,-0.7255116
+01 timestamp(ms):86651.27 force plate (fx, fy, fz, mx, my, mz):2.617598,1.665365,0.6855469,8.727417,-23.19464,-0.1561193
+01 timestamp(ms):86673.28 force plate (fx, fy, fz, mx, my, mz):3.276648,1.423063,0.8735352,8.893738,-23.1965,-0.1119328
+01 timestamp(ms):86695.69 force plate (fx, fy, fz, mx, my, mz):2.941526,1.415968,0.8735352,8.894226,-23.21234,-0.2064228
+01 timestamp(ms):86717.95 force plate (fx, fy, fz, mx, my, mz):2.947531,1.657686,1.249512,8.987732,-23.21176,-0.2500401
+01 timestamp(ms):86739.69 force plate (fx, fy, fz, mx, my, mz):2.957552,1.666395,1.060059,8.934265,-23.24484,-0.06291771
+01 timestamp(ms):86762.04 force plate (fx, fy, fz, mx, my, mz):3.987257,0.6270752,1.608154,11.0921,-24.56155,0.09007359
+01 timestamp(ms):86784.15 force plate (fx, fy, fz, mx, my, mz):3.990126,0.3806915,1.608154,11.10333,-24.5614,0.04839611
+01 timestamp(ms):86806.61 force plate (fx, fy, fz, mx, my, mz):3.985254,0.1352768,1.795166,11.16681,-24.52805,0.09104633
+01 timestamp(ms):86828.91 force plate (fx, fy, fz, mx, my, mz):3.990496,0.6262627,2.169678,11.14417,-24.52762,0.08978271
+01 timestamp(ms):86850.95 force plate (fx, fy, fz, mx, my, mz):3.986895,0.6259689,1.796143,11.14459,-24.52808,0.08972454
+01 timestamp(ms):86873.54 force plate (fx, fy, fz, mx, my, mz):4.320034,1.146292,1.980713,10.02917,-24.94458,0.004545212
+01 timestamp(ms):86895.53 force plate (fx, fy, fz, mx, my, mz):3.656971,1.136316,1.604492,10.13336,-24.97635,0.001524925
+01 timestamp(ms):86917.67 force plate (fx, fy, fz, mx, my, mz):3.997822,0.9015369,1.79126,9.987427,-24.99335,0.05549908
+01 timestamp(ms):86939.56 force plate (fx, fy, fz, mx, my, mz):3.997822,0.9015369,1.79126,9.987427,-24.99335,0.05549908
+01 timestamp(ms):86961.92 force plate (fx, fy, fz, mx, my, mz):4.678629,0.8628902,0.8413086,11.16718,-26.26132,0.11759
+01 timestamp(ms):86984.24 force plate (fx, fy, fz, mx, my, mz):4.680483,0.861414,1.02832,11.21906,-26.29434,0.117322
+01 timestamp(ms):87006.59 force plate (fx, fy, fz, mx, my, mz):4.684999,1.105722,1.02832,11.20807,-26.29422,0.0743227
+01 timestamp(ms):87028.84 force plate (fx, fy, fz, mx, my, mz):5.015451,0.8617268,1.029297,11.11511,-26.27859,-0.05896378
+01 timestamp(ms):87050.75 force plate (fx, fy, fz, mx, my, mz):4.684084,0.8617077,1.402344,11.21863,-26.29388,0.1173792
+01 timestamp(ms):87072.98 force plate (fx, fy, fz, mx, my, mz):5.031569,2.50803,-0.1040039,13.20648,-27.07971,0.03080082
+01 timestamp(ms):87095.36 force plate (fx, fy, fz, mx, my, mz):4.707235,2.505444,-0.1052246,13.30969,-27.09515,0.1223316
+01 timestamp(ms):87117.53 force plate (fx, fy, fz, mx, my, mz):5.040224,2.760532,0.08203125,13.24615,-27.11249,0.2589865
+01 timestamp(ms):87140.45 force plate (fx, fy, fz, mx, my, mz):4.708731,2.502853,0.2697754,13.41406,-27.0947,0.1217146
+01 timestamp(ms):87162.16 force plate (fx, fy, fz, mx, my, mz):4.706217,2.75034,0.08178711,13.35034,-27.12833,0.1637402
+01 timestamp(ms):87184.3 force plate (fx, fy, fz, mx, my, mz):4.392189,3.448336,2.144287,14.40967,-27.17484,0.01780796
+01 timestamp(ms):87206.8 force plate (fx, fy, fz, mx, my, mz):4.052551,3.196939,2.142334,14.42114,-27.19083,-0.03368473
+01 timestamp(ms):87228.51 force plate (fx, fy, fz, mx, my, mz):4.387672,3.204035,2.143311,14.42065,-27.17496,0.06080723
+01 timestamp(ms):87250.7 force plate (fx, fy, fz, mx, my, mz):4.388405,3.205652,2.330322,14.36877,-27.20798,0.06129265
+01 timestamp(ms):87272.95 force plate (fx, fy, fz, mx, my, mz):3.058298,3.203615,1.581299,13.95636,-26.93872,-0.02545929
+01 timestamp(ms):87295.17 force plate (fx, fy, fz, mx, my, mz):3.064669,3.446447,1.768799,13.99713,-26.97162,-0.06872654
+01 timestamp(ms):87317.38 force plate (fx, fy, fz, mx, my, mz):3.065401,3.448065,1.955811,13.94531,-27.00464,-0.06824112
+01 timestamp(ms):87339.71 force plate (fx, fy, fz, mx, my, mz):2.740953,3.448732,1.953857,13.94446,-26.95358,0.02388287
+01 timestamp(ms):87362.08 force plate (fx, fy, fz, mx, my, mz):3.073206,3.45714,1.766357,13.89258,-26.97122,0.1188021
+01 timestamp(ms):87383.98 force plate (fx, fy, fz, mx, my, mz):3.394316,4.171301,1.012939,13.64551,-27.82257,-0.4911776
+01 timestamp(ms):87406.18 force plate (fx, fy, fz, mx, my, mz):3.388628,3.920044,1.013916,13.55334,-27.88928,-0.7187958
+01 timestamp(ms):87428.43 force plate (fx, fy, fz, mx, my, mz):3.397554,3.926027,0.8249512,13.60425,-27.8559,-0.5325079
+01 timestamp(ms):87450.77 force plate (fx, fy, fz, mx, my, mz):3.396429,3.929119,0.8254395,13.50061,-27.85587,-0.5317535
+01 timestamp(ms):87473.78 force plate (fx, fy, fz, mx, my, mz):3.723749,3.927132,1.013916,13.55286,-27.87344,-0.6243057
+01 timestamp(ms):87495.61 force plate (fx, fy, fz, mx, my, mz):3.740698,3.22937,0.8164063,12.0733,-28.83759,-0.6526365
+01 timestamp(ms):87517.95 force plate (fx, fy, fz, mx, my, mz):3.412359,3.476257,0.8144531,12.06158,-28.85321,-0.5186758
+01 timestamp(ms):87539.19 force plate (fx, fy, fz, mx, my, mz):3.40933,3.715851,0.8168945,11.9469,-28.85349,-0.7477741
+01 timestamp(ms):87561.73 force plate (fx, fy, fz, mx, my, mz):3.739683,3.47427,1.003418,12.11395,-28.87079,-0.611227
+01 timestamp(ms):87584.06 force plate (fx, fy, fz, mx, my, mz):3.740805,3.22612,0.8164063,12.17731,-28.90408,-0.6532302
+01 timestamp(ms):87606.09 force plate (fx, fy, fz, mx, my, mz):5.474518,1.574108,3.970703,9.997559,-32.24649,-0.672719
+01 timestamp(ms):87629.03 force plate (fx, fy, fz, mx, my, mz):5.473866,1.820118,3.970215,9.98584,-32.31314,-0.6309624
+01 timestamp(ms):87651.09 force plate (fx, fy, fz, mx, my, mz):5.475325,1.823956,3.781738,9.828979,-32.41312,-0.6297798
+01 timestamp(ms):87672.55 force plate (fx, fy, fz, mx, my, mz):5.477179,1.822475,3.968262,9.880737,-32.44614,-0.6300478
+01 timestamp(ms):87694.69 force plate (fx, fy, fz, mx, my, mz):14.48952,0.9122105,-0.5717773,8.406677,-38.41675,-0.8287592
+01 timestamp(ms):87716.96 force plate (fx, fy, fz, mx, my, mz):13.83079,0.9041462,-0.387207,8.458435,-38.48108,-0.8312359
+01 timestamp(ms):87739.09 force plate (fx, fy, fz, mx, my, mz):13.83217,0.9054146,-0.574707,8.40564,-38.44806,-0.8310471
+01 timestamp(ms):87761.34 force plate (fx, fy, fz, mx, my, mz):13.8353,1.149059,-0.9482422,8.394592,-38.51489,-0.8740244
+01 timestamp(ms):87783.66 force plate (fx, fy, fz, mx, my, mz):14.49875,0.9092598,-0.9462891,8.405579,-38.48343,-0.9134932
+01 timestamp(ms):87806.14 force plate (fx, fy, fz, mx, my, mz):11.8735,1.842978,0.3591309,9.454224,-38.241,-0.7461462
+01 timestamp(ms):87827.77 force plate (fx, fy, fz, mx, my, mz):12.19611,1.837965,0.1748047,9.611023,-38.19254,-0.839591
+01 timestamp(ms):87850.2 force plate (fx, fy, fz, mx, my, mz):11.53553,1.831381,0.1728516,9.611145,-38.22385,-0.8417978
+01 timestamp(ms):87872.48 force plate (fx, fy, fz, mx, my, mz):11.8655,2.075186,0.1757813,9.600525,-38.20828,-0.9770823
+01 timestamp(ms):87894.62 force plate (fx, fy, fz, mx, my, mz):11.54004,2.075689,0.1738281,9.600159,-38.22372,-0.8847971
+01 timestamp(ms):87917.29 force plate (fx, fy, fz, mx, my, mz):9.201517,1.602457,4.696045,9.241089,-35.53186,-0.9310274
+01 timestamp(ms):87939.96 force plate (fx, fy, fz, mx, my, mz):9.529917,1.365618,4.697021,9.252319,-35.44962,-0.7936182
+01 timestamp(ms):87961.41 force plate (fx, fy, fz, mx, my, mz):9.192289,1.605408,5.071289,9.242065,-35.46518,-0.8462934
+01 timestamp(ms):87983.4 force plate (fx, fy, fz, mx, my, mz):8.854952,1.598686,5.071777,9.243164,-35.41452,-0.9408655
+01 timestamp(ms):88005.7 force plate (fx, fy, fz, mx, my, mz):8.533518,1.600578,5.071289,9.140076,-35.36319,-0.9325857
+01 timestamp(ms):88027.69 force plate (fx, fy, fz, mx, my, mz):9.046904,1.715073,-5.371094,6.15802,-30.75458,-0.8830328
+01 timestamp(ms):88050.28 force plate (fx, fy, fz, mx, my, mz):8.384481,1.709366,-4.998047,6.15918,-30.71893,-0.8851824
+01 timestamp(ms):88072.59 force plate (fx, fy, fz, mx, my, mz):8.390432,1.719322,-4.811523,6.107666,-30.6185,-0.6980829
+01 timestamp(ms):88094.48 force plate (fx, fy, fz, mx, my, mz):9.042364,1.473404,-4.993652,6.067993,-30.55444,-0.9240599
+01 timestamp(ms):88116.83 force plate (fx, fy, fz, mx, my, mz):5.001568,0.08530045,1.984863,3.963196,-25.64142,-0.74894
+01 timestamp(ms):88139.55 force plate (fx, fy, fz, mx, my, mz):4.676846,0.08742142,2.169922,3.910828,-25.68985,-0.6561694
+01 timestamp(ms):88161.39 force plate (fx, fy, fz, mx, my, mz):4.345497,0.3230247,1.981934,3.952209,-25.67261,-0.7941442
+01 timestamp(ms):88183.37 force plate (fx, fy, fz, mx, my, mz):4.337273,0.08167648,1.60791,3.859436,-25.60669,-0.750608
+01 timestamp(ms):88205.73 force plate (fx, fy, fz, mx, my, mz):4.66716,-0.1577644,1.983398,3.974915,-25.52399,-0.6138158
+01 timestamp(ms):88228.21 force plate (fx, fy, fz, mx, my, mz):0.6098175,-0.616745,3.331299,2.951477,-21.28522,-0.485724
+01 timestamp(ms):88250.13 force plate (fx, fy, fz, mx, my, mz):0.6122971,-0.6133556,3.705322,2.847473,-21.28476,-0.4849124
+01 timestamp(ms):88272.49 force plate (fx, fy, fz, mx, my, mz):0.2784481,-0.3759251,3.705322,2.837891,-21.30048,-0.6223245
+01 timestamp(ms):88294.48 force plate (fx, fy, fz, mx, my, mz):0.6085873,-0.611002,3.893799,2.796936,-21.18478,-0.4845872
+01 timestamp(ms):88316.62 force plate (fx, fy, fz, mx, my, mz):0.6067333,-0.6101284,4.269775,2.798035,-21.11777,-0.48453
+01 timestamp(ms):88338.74 force plate (fx, fy, fz, mx, my, mz):0.1925621,-2.280354,0.1679688,1.438354,-19.0098,-0.5080724
+01 timestamp(ms):88361.38 force plate (fx, fy, fz, mx, my, mz):0.1999512,-2.282429,0.1689453,1.438721,-19.00952,-0.5927501
+01 timestamp(ms):88383.44 force plate (fx, fy, fz, mx, my, mz):0.5323029,-2.51786,0.3549805,1.396912,-18.9603,-0.4549317
+01 timestamp(ms):88405.47 force plate (fx, fy, fz, mx, my, mz):0.8552876,-2.521757,-0.01708984,1.501343,-18.94534,-0.5480266
+01 timestamp(ms):88427.93 force plate (fx, fy, fz, mx, my, mz):0.8211269,-2.475796,-1.129883,0.6803589,-17.54944,-0.1706176
+01 timestamp(ms):88450 force plate (fx, fy, fz, mx, my, mz):1.146223,-2.477417,-0.9404297,0.7332153,-17.50052,-0.2632518
+01 timestamp(ms):88472.4 force plate (fx, fy, fz, mx, my, mz):1.14189,-2.479328,-1.500977,0.7854614,-17.46796,-0.2637944
+01 timestamp(ms):88494.47 force plate (fx, fy, fz, mx, my, mz):1.141417,-2.477188,-1.313477,0.7337646,-17.36795,-0.2635484
+01 timestamp(ms):88516.78 force plate (fx, fy, fz, mx, my, mz):0.8045483,-2.48605,-1.501465,0.786438,-17.4173,-0.3583646
+01 timestamp(ms):88539.26 force plate (fx, fy, fz, mx, my, mz):-1.215368,-0.3191719,1.51709,2.580383,-14.98013,0.02943945
+01 timestamp(ms):88561.52 force plate (fx, fy, fz, mx, my, mz):-1.210752,-0.5637741,1.705078,2.539429,-14.9465,-0.01191282
+01 timestamp(ms):88583.71 force plate (fx, fy, fz, mx, my, mz):-1.222158,-0.5731468,1.52002,2.59259,-14.98041,-0.1990161
+01 timestamp(ms):88605.51 force plate (fx, fy, fz, mx, my, mz):-1.217226,-0.3176956,1.32959,2.528381,-14.94711,0.02970743
+01 timestamp(ms):88628.2 force plate (fx, fy, fz, mx, my, mz):-0.8892574,-0.5656891,1.520996,2.59259,-14.89804,-0.1046052
+01 timestamp(ms):88649.82 force plate (fx, fy, fz, mx, my, mz):-3.563475,0.8324432,0.3991699,4.090576,-13.96164,-0.2324963
+01 timestamp(ms):88672.27 force plate (fx, fy, fz, mx, my, mz):-3.236155,0.830452,0.5876465,4.142822,-13.97922,-0.3250484
+01 timestamp(ms):88694.72 force plate (fx, fy, fz, mx, my, mz):-3.234776,0.8317204,0.4001465,4.090027,-13.9462,-0.3248587
+01 timestamp(ms):88716.88 force plate (fx, fy, fz, mx, my, mz):-2.904167,0.5944996,0.4001465,4.100525,-13.93045,-0.1873674
+01 timestamp(ms):88740.54 force plate (fx, fy, fz, mx, my, mz):0.7703419,1.758274,0.01269531,6.304565,-16.15573,-0.4650402
+01 timestamp(ms):88760.25 force plate (fx, fy, fz, mx, my, mz):0.7721958,1.756794,0.1992188,6.356567,-16.18872,-0.4653072
+01 timestamp(ms):88782.66 force plate (fx, fy, fz, mx, my, mz):0.4437122,1.265953,-0.1772461,6.377991,-16.27106,-0.3716803
+01 timestamp(ms):88804.83 force plate (fx, fy, fz, mx, my, mz):0.4449863,1.75613,-0.5522461,6.355164,-16.27161,-0.3731394
+01 timestamp(ms):88827.23 force plate (fx, fy, fz, mx, my, mz):0.7715702,1.752529,-0.550293,6.459229,-16.25616,-0.466177
+01 timestamp(ms):88849.23 force plate (fx, fy, fz, mx, my, mz):0.5083752,2.192375,4.675781,7.567749,-18.26117,-0.6681414
+01 timestamp(ms):88871.73 force plate (fx, fy, fz, mx, my, mz):0.5081158,2.188618,4.300781,7.671082,-18.32816,-0.6688728
+01 timestamp(ms):88893.9 force plate (fx, fy, fz, mx, my, mz):0.5092106,2.191345,4.300293,7.566711,-18.39462,-0.6680393
+01 timestamp(ms):88916.07 force plate (fx, fy, fz, mx, my, mz):0.8320179,1.945057,4.487793,7.630066,-18.41232,-0.7175913
+01 timestamp(ms):88938.59 force plate (fx, fy, fz, mx, my, mz):0.8342381,1.944687,4.487305,7.629456,-18.47882,-0.7175102
+01 timestamp(ms):88960.53 force plate (fx, fy, fz, mx, my, mz):2.87311,1.934898,2.030762,8.277161,-20.61664,-0.4599648
+01 timestamp(ms):88982.66 force plate (fx, fy, fz, mx, my, mz):2.537989,1.927811,2.029785,8.277649,-20.63248,-0.5544567
+01 timestamp(ms):89005.57 force plate (fx, fy, fz, mx, my, mz):2.869501,2.179657,1.84375,8.31781,-20.5838,-0.4187727
+01 timestamp(ms):89026.98 force plate (fx, fy, fz, mx, my, mz):3.193026,1.934982,2.21875,8.329163,-20.63446,-0.4678411
+01 timestamp(ms):89049.43 force plate (fx, fy, fz, mx, my, mz):3.197908,2.180401,2.031738,8.265686,-20.66782,-0.5104914
+01 timestamp(ms):89071.46 force plate (fx, fy, fz, mx, my, mz):1.906908,2.599592,0.7016602,10.15039,-21.76385,-0.2753043
+01 timestamp(ms):89093.6 force plate (fx, fy, fz, mx, my, mz):1.902758,2.356394,0.5131836,10.10889,-21.79745,-0.231956
+01 timestamp(ms):89117.03 force plate (fx, fy, fz, mx, my, mz):1.910875,2.600996,0.8876953,10.09753,-21.79688,-0.2748985
+01 timestamp(ms):89138.64 force plate (fx, fy, fz, mx, my, mz):1.901217,2.593397,0.8896484,10.09851,-21.79727,-0.4616718
+01 timestamp(ms):89161.47 force plate (fx, fy, fz, mx, my, mz):3.269888,3.552059,-1.006104,11.0683,-23.66681,-0.1270943
+01 timestamp(ms):89182.46 force plate (fx, fy, fz, mx, my, mz):3.269156,3.550442,-1.193115,11.12012,-23.63379,-0.1275797
+01 timestamp(ms):89204.94 force plate (fx, fy, fz, mx, my, mz):3.601347,3.793869,-1.190674,11.10901,-23.68472,-0.262785
+01 timestamp(ms):89226.78 force plate (fx, fy, fz, mx, my, mz):3.268442,3.786407,-1.191162,11.10889,-23.76706,-0.3571968
+01 timestamp(ms):89248.9 force plate (fx, fy, fz, mx, my, mz):3.60644,3.792179,-1.003662,11.15997,-23.71777,-0.2631321
+01 timestamp(ms):89272.27 force plate (fx, fy, fz, mx, my, mz):3.081438,3.965353,8.696045,13.61945,-27.2619,0.2069359
+01 timestamp(ms):89293.48 force plate (fx, fy, fz, mx, my, mz):3.743879,3.970461,8.886475,13.67108,-27.26361,0.2088747
+01 timestamp(ms):89315.76 force plate (fx, fy, fz, mx, my, mz):3.746466,3.970598,9.26001,13.67114,-27.32965,0.2090921
+01 timestamp(ms):89338.04 force plate (fx, fy, fz, mx, my, mz):3.744974,3.973188,8.885498,13.56689,-27.33011,0.2097082
+01 timestamp(ms):89360.26 force plate (fx, fy, fz, mx, my, mz):3.413557,3.96314,9.258545,13.67114,-27.41202,0.1146812
+01 timestamp(ms):89382.45 force plate (fx, fy, fz, mx, my, mz):8.710627,3.262932,-3.131348,11.99158,-30.97086,-0.4064026
+02 timestamp(ms):84253.56 rotation(x,y,z):0,0,-1.571
+02 timestamp(ms):84274.77 rotation(x,y,z):0,0,-3.309
+02 timestamp(ms):84297.94 rotation(x,y,z):0,0,-4.84
+02 timestamp(ms):84318.79 rotation(x,y,z):0,0,-6.509
+02 timestamp(ms):84341.09 rotation(x,y,z):0,0,-8.009
+02 timestamp(ms):84363.3 rotation(x,y,z):0,0,-9.616
+02 timestamp(ms):84385.55 rotation(x,y,z):0,0,-11.217
+02 timestamp(ms):84407.89 rotation(x,y,z):0,0,-12.818
+02 timestamp(ms):84429.72 rotation(x,y,z):0,0,-14.428
+02 timestamp(ms):84451.98 rotation(x,y,z):0,0,-15.998
+02 timestamp(ms):84474.05 rotation(x,y,z):0,0,-17.601
+02 timestamp(ms):84496.41 rotation(x,y,z):0,0,-19.193
+02 timestamp(ms):84518.52 rotation(x,y,z):0,0,-20.804
+02 timestamp(ms):84540.97 rotation(x,y,z):0,0,-22.395
+02 timestamp(ms):84562.83 rotation(x,y,z):0,0,-24.009
+02 timestamp(ms):84585.59 rotation(x,y,z):0,0,-25.585
+02 timestamp(ms):84607.44 rotation(x,y,z):0,0,-27.228
+02 timestamp(ms):84629.97 rotation(x,y,z):0,0,-28.799
+02 timestamp(ms):84652.01 rotation(x,y,z):0,0,-30.413
+02 timestamp(ms):84674.59 rotation(x,y,z):0,0,-32.01
+02 timestamp(ms):84696.54 rotation(x,y,z):0,0,-33.629
+02 timestamp(ms):84718.77 rotation(x,y,z):0,0,-35.209
+02 timestamp(ms):84740.86 rotation(x,y,z):0,0,-36.811
+02 timestamp(ms):84762.95 rotation(x,y,z):0,0,-38.394
+02 timestamp(ms):84784.94 rotation(x,y,z):0,0,-39.99
+02 timestamp(ms):84807.43 rotation(x,y,z):0,0,-41.581
+02 timestamp(ms):84829.67 rotation(x,y,z):0,0,-43.192
+02 timestamp(ms):84851.88 rotation(x,y,z):0,0,-44.797
+02 timestamp(ms):84874.12 rotation(x,y,z):0,0,-45
+02 timestamp(ms):84896.14 rotation(x,y,z):0,0,-43.396
+02 timestamp(ms):84918.27 rotation(x,y,z):0,0,-41.808
+02 timestamp(ms):84940.56 rotation(x,y,z):0,0,-40.21
+02 timestamp(ms):84963.04 rotation(x,y,z):0,0,-38.606
+02 timestamp(ms):84986.07 rotation(x,y,z):0,0,-36.999
+02 timestamp(ms):85007.18 rotation(x,y,z):0,0,-35.338
+02 timestamp(ms):85029.96 rotation(x,y,z):0,0,-33.817
+02 timestamp(ms):85052.22 rotation(x,y,z):0,0,-32.178
+02 timestamp(ms):85074.69 rotation(x,y,z):0,0,-30.573
+02 timestamp(ms):85097.36 rotation(x,y,z):0,0,-28.957
+02 timestamp(ms):85119.12 rotation(x,y,z):0,0,-27.325
+02 timestamp(ms):85141.96 rotation(x,y,z):0,0,-25.757
+02 timestamp(ms):85163.6 rotation(x,y,z):0,0,-24.119
+02 timestamp(ms):85185.65 rotation(x,y,z):0,0,-22.556
+02 timestamp(ms):85207.86 rotation(x,y,z):0,0,-20.965
+02 timestamp(ms):85230.26 rotation(x,y,z):0,0,-19.359
+02 timestamp(ms):85252.5 rotation(x,y,z):0,0,-17.758
+02 timestamp(ms):85275.27 rotation(x,y,z):0,0,-16.148
+02 timestamp(ms):85297.06 rotation(x,y,z):0,0,-14.516
+02 timestamp(ms):85320.12 rotation(x,y,z):0,0,-12.945
+02 timestamp(ms):85340.97 rotation(x,y,z):0,0,-11.293
+02 timestamp(ms):85363.46 rotation(x,y,z):0,0,-9.79
+02 timestamp(ms):85385.49 rotation(x,y,z):0,0,-8.164
+02 timestamp(ms):85407.67 rotation(x,y,z):0,0,-6.58
+02 timestamp(ms):85430.11 rotation(x,y,z):0,0,-4.983
+02 timestamp(ms):85452.28 rotation(x,y,z):0,0,-3.366
+02 timestamp(ms):85474.67 rotation(x,y,z):0,0,-1.77
+02 timestamp(ms):85496.57 rotation(x,y,z):0,0,-0.16
+02 timestamp(ms):85518.64 rotation(x,y,z):0,0,0
+02 timestamp(ms):85541.07 rotation(x,y,z):0,0,1.589
+02 timestamp(ms):85563.12 rotation(x,y,z):0,0,3.202
+02 timestamp(ms):85585.73 rotation(x,y,z):0,0,4.785
+02 timestamp(ms):85607.66 rotation(x,y,z):0,0,6.421
+02 timestamp(ms):85630.08 rotation(x,y,z):0,0,8
+02 timestamp(ms):85651.98 rotation(x,y,z):0,0,9.61
+02 timestamp(ms):85675.04 rotation(x,y,z):0,0,11.188
+02 timestamp(ms):85696.59 rotation(x,y,z):0,0,12.842
+02 timestamp(ms):85718.44 rotation(x,y,z):0,0,14.398
+02 timestamp(ms):85740.84 rotation(x,y,z):0,0,15.975
+02 timestamp(ms):85763.31 rotation(x,y,z):0,0,17.583
+02 timestamp(ms):85785.13 rotation(x,y,z):0,0,19.202
+02 timestamp(ms):85807.44 rotation(x,y,z):0,0,20.779
+02 timestamp(ms):85829.66 rotation(x,y,z):0,0,22.382
+02 timestamp(ms):85852.22 rotation(x,y,z):0,0,23.978
+02 timestamp(ms):85874.1 rotation(x,y,z):0,0,25.602
+02 timestamp(ms):85896.16 rotation(x,y,z):0,0,27.176
+02 timestamp(ms):85918.24 rotation(x,y,z):0,0,28.768
+02 timestamp(ms):85940.57 rotation(x,y,z):0,0,30.354
+02 timestamp(ms):85963.03 rotation(x,y,z):0,0,31.969
+02 timestamp(ms):85985.09 rotation(x,y,z):0,0,33.576
+02 timestamp(ms):86007.37 rotation(x,y,z):0,0,35.165
+02 timestamp(ms):86029.3 rotation(x,y,z):0,0,36.777
+02 timestamp(ms):86052.71 rotation(x,y,z):0,0,38.361
+02 timestamp(ms):86073.91 rotation(x,y,z):0,0,40.031
+02 timestamp(ms):86096.65 rotation(x,y,z):0,0,41.567
+02 timestamp(ms):86118.11 rotation(x,y,z):0,0,43.193
+02 timestamp(ms):86140.63 rotation(x,y,z):0,0,44.75
+02 timestamp(ms):86162.97 rotation(x,y,z):0,0,45
+02 timestamp(ms):86185.2 rotation(x,y,z):0,0,43.394
+02 timestamp(ms):86207.09 rotation(x,y,z):0,0,41.788
+02 timestamp(ms):86229.55 rotation(x,y,z):0,0,40.213
+02 timestamp(ms):86251.95 rotation(x,y,z):0,0,38.595
+02 timestamp(ms):86273.78 rotation(x,y,z):0,0,36.999
+02 timestamp(ms):86295.98 rotation(x,y,z):0,0,35.411
+02 timestamp(ms):86318.2 rotation(x,y,z):0,0,33.81
+02 timestamp(ms):86340.45 rotation(x,y,z):0,0,32.211
+02 timestamp(ms):86362.91 rotation(x,y,z):0,0,30.607
+02 timestamp(ms):86385.38 rotation(x,y,z):0,0,28.993
+02 timestamp(ms):86407.42 rotation(x,y,z):0,0,27.382
+02 timestamp(ms):86429.43 rotation(x,y,z):0,0,25.778
+02 timestamp(ms):86451.55 rotation(x,y,z):0,0,24.199
+02 timestamp(ms):86473.87 rotation(x,y,z):0,0,22.61
+02 timestamp(ms):86496.68 rotation(x,y,z):0,0,21.005
+02 timestamp(ms):86518.34 rotation(x,y,z):0,0,19.361
+02 timestamp(ms):86540.44 rotation(x,y,z):0,0,17.802
+02 timestamp(ms):86563.38 rotation(x,y,z):0,0,16.211
+02 timestamp(ms):86585.3 rotation(x,y,z):0,0,14.561
+02 timestamp(ms):86606.95 rotation(x,y,z):0,0,12.984
+02 timestamp(ms):86629.07 rotation(x,y,z):0,0,11.416
+02 timestamp(ms):86651.79 rotation(x,y,z):0,0,9.823
+02 timestamp(ms):86673.74 rotation(x,y,z):0,0,8.197
+02 timestamp(ms):86696.15 rotation(x,y,z):0,0,6.61
+02 timestamp(ms):86718.43 rotation(x,y,z):0,0,4.996
+02 timestamp(ms):86740.16 rotation(x,y,z):0,0,3.393
+02 timestamp(ms):86762.51 rotation(x,y,z):0,0,1.83
+02 timestamp(ms):86784.63 rotation(x,y,z):0,0,0.225
+02 timestamp(ms):86807.09 rotation(x,y,z):0,0,0
+02 timestamp(ms):86829.37 rotation(x,y,z):0,0,-1.612
+02 timestamp(ms):86851.42 rotation(x,y,z):0,0,-3.22
+02 timestamp(ms):86873.99 rotation(x,y,z):0,0,-4.805
+02 timestamp(ms):86896.02 rotation(x,y,z):0,0,-6.43
+02 timestamp(ms):86918.16 rotation(x,y,z):0,0,-8.008
+02 timestamp(ms):86940.05 rotation(x,y,z):0,0,-9.608
+02 timestamp(ms):86962.41 rotation(x,y,z):0,0,-11.182
+02 timestamp(ms):86984.73 rotation(x,y,z):0,0,-12.794
+02 timestamp(ms):87007.05 rotation(x,y,z):0,0,-14.398
+02 timestamp(ms):87029.31 rotation(x,y,z):0,0,-16.007
+02 timestamp(ms):87051.26 rotation(x,y,z):0,0,-17.611
+02 timestamp(ms):87073.45 rotation(x,y,z):0,0,-19.188
+02 timestamp(ms):87095.83 rotation(x,y,z):0,0,-20.784
+02 timestamp(ms):87118.02 rotation(x,y,z):0,0,-22.399
+02 timestamp(ms):87140.93 rotation(x,y,z):0,0,-23.998
+02 timestamp(ms):87162.62 rotation(x,y,z):0,0,-25.646
+02 timestamp(ms):87184.77 rotation(x,y,z):0,0,-27.2
+02 timestamp(ms):87207.32 rotation(x,y,z):0,0,-28.804
+02 timestamp(ms):87228.95 rotation(x,y,z):0,0,-30.425
+02 timestamp(ms):87251.16 rotation(x,y,z):0,0,-31.984
+02 timestamp(ms):87273.43 rotation(x,y,z):0,0,-33.586
+02 timestamp(ms):87295.66 rotation(x,y,z):0,0,-35.188
+02 timestamp(ms):87317.85 rotation(x,y,z):0,0,-36.785
+02 timestamp(ms):87340.17 rotation(x,y,z):0,0,-38.39
+02 timestamp(ms):87362.59 rotation(x,y,z):0,0,-39.995
+02 timestamp(ms):87384.45 rotation(x,y,z):0,0,-41.598
+02 timestamp(ms):87406.66 rotation(x,y,z):0,0,-43.182
+02 timestamp(ms):87428.92 rotation(x,y,z):0,0,-44.782
+02 timestamp(ms):87451.25 rotation(x,y,z):0,0,-45
+02 timestamp(ms):87474.25 rotation(x,y,z):0,0,-43.389
+02 timestamp(ms):87496.07 rotation(x,y,z):0,0,-41.738
+02 timestamp(ms):87518.41 rotation(x,y,z):0,0,-40.165
+02 timestamp(ms):87539.66 rotation(x,y,z):0,0,-38.548
+02 timestamp(ms):87562.2 rotation(x,y,z):0,0,-37.023
+02 timestamp(ms):87584.54 rotation(x,y,z):0,0,-35.406
+02 timestamp(ms):87606.56 rotation(x,y,z):0,0,-33.797
+02 timestamp(ms):87629.5 rotation(x,y,z):0,0,-32.203
+02 timestamp(ms):87651.56 rotation(x,y,z):0,0,-30.556
+02 timestamp(ms):87673.02 rotation(x,y,z):0,0,-28.971
+02 timestamp(ms):87695.15 rotation(x,y,z):0,0,-27.421
+02 timestamp(ms):87717.41 rotation(x,y,z):0,0,-25.826
+02 timestamp(ms):87739.58 rotation(x,y,z):0,0,-24.226
+02 timestamp(ms):87761.82 rotation(x,y,z):0,0,-22.632
+02 timestamp(ms):87784.14 rotation(x,y,z):0,0,-21.03
+02 timestamp(ms):87806.61 rotation(x,y,z):0,0,-19.43
+02 timestamp(ms):87828.25 rotation(x,y,z):0,0,-17.808
+02 timestamp(ms):87850.68 rotation(x,y,z):0,0,-16.246
+02 timestamp(ms):87872.95 rotation(x,y,z):0,0,-14.634
+02 timestamp(ms):87895.09 rotation(x,y,z):0,0,-13.023
+02 timestamp(ms):87917.77 rotation(x,y,z):0,0,-11.432
+02 timestamp(ms):87940.44 rotation(x,y,z):0,0,-9.803
+02 timestamp(ms):87961.88 rotation(x,y,z):0,0,-8.167
+02 timestamp(ms):87983.89 rotation(x,y,z):0,0,-6.625
+02 timestamp(ms):88006.18 rotation(x,y,z):0,0,-5.04
+02 timestamp(ms):88028.16 rotation(x,y,z):0,0,-3.434
+02 timestamp(ms):88050.75 rotation(x,y,z):0,0,-1.85
+02 timestamp(ms):88073.07 rotation(x,y,z):0,0,-0.225
+02 timestamp(ms):88094.94 rotation(x,y,z):0,0,0
+02 timestamp(ms):88117.3 rotation(x,y,z):0,0,1.575
+02 timestamp(ms):88140.06 rotation(x,y,z):0,0,3.187
+02 timestamp(ms):88161.88 rotation(x,y,z):0,0,4.817
+02 timestamp(ms):88183.83 rotation(x,y,z):0,0,6.391
+02 timestamp(ms):88206.21 rotation(x,y,z):0,0,7.975
+02 timestamp(ms):88228.67 rotation(x,y,z):0,0,9.582
+02 timestamp(ms):88250.59 rotation(x,y,z):0,0,11.19
+02 timestamp(ms):88272.99 rotation(x,y,z):0,0,12.787
+02 timestamp(ms):88294.96 rotation(x,y,z):0,0,14.387
+02 timestamp(ms):88317.09 rotation(x,y,z):0,0,15.973
+02 timestamp(ms):88339.2 rotation(x,y,z):0,0,17.566
+02 timestamp(ms):88361.85 rotation(x,y,z):0,0,19.166
+02 timestamp(ms):88383.91 rotation(x,y,z):0,0,20.788
+02 timestamp(ms):88405.95 rotation(x,y,z):0,0,22.376
+02 timestamp(ms):88428.42 rotation(x,y,z):0,0,23.961
+02 timestamp(ms):88450.46 rotation(x,y,z):0,0,25.581
+02 timestamp(ms):88472.88 rotation(x,y,z):0,0,27.173
+02 timestamp(ms):88494.95 rotation(x,y,z):0,0,28.782
+02 timestamp(ms):88517.26 rotation(x,y,z):0,0,30.373
+02 timestamp(ms):88539.73 rotation(x,y,z):0,0,31.975
+02 timestamp(ms):88562.02 rotation(x,y,z):0,0,33.596
+02 timestamp(ms):88584.2 rotation(x,y,z):0,0,35.198
+02 timestamp(ms):88605.98 rotation(x,y,z):0,0,36.79
+02 timestamp(ms):88628.66 rotation(x,y,z):0,0,38.367
+02 timestamp(ms):88650.29 rotation(x,y,z):0,0,40.001
+02 timestamp(ms):88672.73 rotation(x,y,z):0,0,41.558
+02 timestamp(ms):88695.17 rotation(x,y,z):0,0,43.177
+02 timestamp(ms):88717.31 rotation(x,y,z):0,0,44.784
+02 timestamp(ms):88741.02 rotation(x,y,z):0,0,45
+02 timestamp(ms):88760.74 rotation(x,y,z):0,0,43.306
+02 timestamp(ms):88783.13 rotation(x,y,z):0,0,41.876
+02 timestamp(ms):88805.29 rotation(x,y,z):0,0,40.27
+02 timestamp(ms):88827.7 rotation(x,y,z):0,0,38.672
+02 timestamp(ms):88849.71 rotation(x,y,z):0,0,37.061
+02 timestamp(ms):88872.22 rotation(x,y,z):0,0,35.478
+02 timestamp(ms):88894.37 rotation(x,y,z):0,0,33.854
+02 timestamp(ms):88916.53 rotation(x,y,z):0,0,32.259
+02 timestamp(ms):88939.09 rotation(x,y,z):0,0,30.667
+02 timestamp(ms):88961.02 rotation(x,y,z):0,0,29.047
+02 timestamp(ms):88983.15 rotation(x,y,z):0,0,27.465
+02 timestamp(ms):89006.04 rotation(x,y,z):0,0,25.866
+02 timestamp(ms):89027.46 rotation(x,y,z):0,0,24.225
+02 timestamp(ms):89049.89 rotation(x,y,z):0,0,22.683
+02 timestamp(ms):89071.95 rotation(x,y,z):0,0,21.054
+02 timestamp(ms):89094.09 rotation(x,y,z):0,0,19.473
+02 timestamp(ms):89117.5 rotation(x,y,z):0,0,17.873
+02 timestamp(ms):89139.13 rotation(x,y,z):0,0,16.19
+02 timestamp(ms):89161.95 rotation(x,y,z):0,0,14.639
+02 timestamp(ms):89182.93 rotation(x,y,z):0,0,12.996
+02 timestamp(ms):89205.43 rotation(x,y,z):0,0,11.482
+02 timestamp(ms):89227.24 rotation(x,y,z):0,0,9.869
+02 timestamp(ms):89249.38 rotation(x,y,z):0,0,8.294
+02 timestamp(ms):89272.73 rotation(x,y,z):0,0,6.7
+02 timestamp(ms):89293.97 rotation(x,y,z):0,0,5.02
+02 timestamp(ms):89316.24 rotation(x,y,z):0,0,3.483
+02 timestamp(ms):89338.51 rotation(x,y,z):0,0,1.882
+02 timestamp(ms):89360.73 rotation(x,y,z):0,0,0.284
+02 timestamp(ms):89382.95 rotation(x,y,z):0,0,0
+03 timestamp(ms):84253.6 rotation(x,y,z):39.687,77.306,-69.685
+03 timestamp(ms):84274.8 rotation(x,y,z):47.83,74.535,-66.671
+03 timestamp(ms):84297.98 rotation(x,y,z):47.988,74.513,-65.169
+03 timestamp(ms):84318.83 rotation(x,y,z):48.061,77.249,-64.979
+03 timestamp(ms):84341.13 rotation(x,y,z):45.141,80.246,-65.483
+03 timestamp(ms):84363.34 rotation(x,y,z):35.582,81.241,-66.698
+03 timestamp(ms):84385.58 rotation(x,y,z):29.327,80.635,-67.528
+03 timestamp(ms):84407.94 rotation(x,y,z):23.474,77.048,-66.485
+03 timestamp(ms):84429.76 rotation(x,y,z):16.226,66.155,-63.26
+03 timestamp(ms):84452.01 rotation(x,y,z):3.72,51.012,-57.618
+03 timestamp(ms):84474.09 rotation(x,y,z):-12.389,28.5,-43.968
+03 timestamp(ms):84496.44 rotation(x,y,z):-20.531,-26.903,1.283
+03 timestamp(ms):84518.56 rotation(x,y,z):-13.507,-65.404,30.271
+03 timestamp(ms):84541.01 rotation(x,y,z):-3.333,-87.416,41.84
+03 timestamp(ms):84562.87 rotation(x,y,z):4.312,-96.382,40.625
+03 timestamp(ms):84585.63 rotation(x,y,z):2.536,-94.264,41.338
+03 timestamp(ms):84607.47 rotation(x,y,z):-8.937,-77.81,34.633
+03 timestamp(ms):84630.01 rotation(x,y,z):-16.019,-59.229,20.583
+03 timestamp(ms):84652.05 rotation(x,y,z):-18.164,-48.063,11.187
+03 timestamp(ms):84674.63 rotation(x,y,z):-16.565,-52.14,14.361
+03 timestamp(ms):84696.58 rotation(x,y,z):-15.383,-53.753,16.115
+03 timestamp(ms):84718.8 rotation(x,y,z):-16.026,-53.259,16.815
+03 timestamp(ms):84740.9 rotation(x,y,z):-16.998,-54.438,18.734
+03 timestamp(ms):84762.98 rotation(x,y,z):-14.68,-55.705,20.12
+03 timestamp(ms):84784.98 rotation(x,y,z):-12.642,-56.033,20.792
+03 timestamp(ms):84807.46 rotation(x,y,z):-14.317,-55.864,21.032
+03 timestamp(ms):84829.72 rotation(x,y,z):-17.919,-50.878,17.232
+03 timestamp(ms):84851.93 rotation(x,y,z):-21.724,-41.899,9.716
+03 timestamp(ms):84874.16 rotation(x,y,z):-21.365,-35.623,4.523
+03 timestamp(ms):84896.18 rotation(x,y,z):-20.072,-28.994,-0.877
+03 timestamp(ms):84918.3 rotation(x,y,z):-21.243,-21.727,-7.089
+03 timestamp(ms):84940.59 rotation(x,y,z):-22.553,-7.82,-19.254
+03 timestamp(ms):84963.07 rotation(x,y,z):-22.099,7.602,-32.711
+03 timestamp(ms):84986.11 rotation(x,y,z):-20.741,22.012,-44.826
+03 timestamp(ms):85007.22 rotation(x,y,z):-20.697,25.318,-47.214
+03 timestamp(ms):85030 rotation(x,y,z):-21.4,15.282,-38.648
+03 timestamp(ms):85052.25 rotation(x,y,z):-22.514,-4.729,-22.154
+03 timestamp(ms):85074.72 rotation(x,y,z):-23.418,-22.904,-7.139
+03 timestamp(ms):85097.4 rotation(x,y,z):-24.348,-43.26,10.665
+03 timestamp(ms):85119.16 rotation(x,y,z):-22.871,-59.61,24.778
+03 timestamp(ms):85142 rotation(x,y,z):-20.721,-67.48,31.255
+03 timestamp(ms):85163.63 rotation(x,y,z):-19.616,-68.718,32.064
+03 timestamp(ms):85185.7 rotation(x,y,z):-20.291,-64.009,27.981
+03 timestamp(ms):85207.9 rotation(x,y,z):-22.043,-58.438,23.898
+03 timestamp(ms):85230.3 rotation(x,y,z):-22.701,-53.312,19.911
+03 timestamp(ms):85252.54 rotation(x,y,z):-23.368,-52.297,19.431
+03 timestamp(ms):85275.31 rotation(x,y,z):-23.084,-52.05,19.095
+03 timestamp(ms):85297.1 rotation(x,y,z):-22.266,-49.637,16.706
+03 timestamp(ms):85320.15 rotation(x,y,z):-22.412,-48.216,14.905
+03 timestamp(ms):85341.01 rotation(x,y,z):-23.357,-42.072,9.656
+03 timestamp(ms):85363.5 rotation(x,y,z):-24.584,-28.062,-2.175
+03 timestamp(ms):85385.53 rotation(x,y,z):-25.011,-7.12,-20.348
+03 timestamp(ms):85407.71 rotation(x,y,z):-23.348,10.601,-36.013
+03 timestamp(ms):85430.15 rotation(x,y,z):-21.232,21.045,-45.36
+03 timestamp(ms):85452.31 rotation(x,y,z):-18.067,29.04,-52.351
+03 timestamp(ms):85474.71 rotation(x,y,z):-14.616,35.505,-57.725
+03 timestamp(ms):85496.6 rotation(x,y,z):-12.441,39.881,-61.607
+03 timestamp(ms):85518.68 rotation(x,y,z):-11.108,42.579,-64.241
+03 timestamp(ms):85541.11 rotation(x,y,z):-10.772,44.584,-66.505
+03 timestamp(ms):85563.16 rotation(x,y,z):-10.153,43.922,-66.489
+03 timestamp(ms):85585.77 rotation(x,y,z):-9.421,43.954,-66.679
+03 timestamp(ms):85607.7 rotation(x,y,z):-8.998,44.913,-67.83
+03 timestamp(ms):85630.12 rotation(x,y,z):-8.341,45.022,-68.355
+03 timestamp(ms):85652.02 rotation(x,y,z):-7.879,44.421,-67.81
+03 timestamp(ms):85675.08 rotation(x,y,z):-7.654,44.483,-67.586
+03 timestamp(ms):85696.63 rotation(x,y,z):-8.275,44.738,-67.493
+03 timestamp(ms):85718.48 rotation(x,y,z):-8.891,44.685,-67.6
+03 timestamp(ms):85740.88 rotation(x,y,z):-9.768,43.83,-67.279
+03 timestamp(ms):85763.35 rotation(x,y,z):-10.63,43.114,-66.914
+03 timestamp(ms):85785.17 rotation(x,y,z):-12.011,41.858,-66.279
+03 timestamp(ms):85807.47 rotation(x,y,z):-12.483,40.85,-65.773
+03 timestamp(ms):85829.71 rotation(x,y,z):-12.368,40.649,-65.469
+03 timestamp(ms):85852.26 rotation(x,y,z):-12.483,40.404,-65.346
+03 timestamp(ms):85874.14 rotation(x,y,z):-12.725,40.617,-65.633
+03 timestamp(ms):85896.2 rotation(x,y,z):-13.094,41.029,-66.17
+03 timestamp(ms):85918.28 rotation(x,y,z):-12.941,41.328,-66.379
+03 timestamp(ms):85940.6 rotation(x,y,z):-12.836,41.875,-66.889
+03 timestamp(ms):85963.08 rotation(x,y,z):-12.827,42.276,-67.478
+03 timestamp(ms):85985.13 rotation(x,y,z):-12.756,42.251,-67.448
+03 timestamp(ms):86007.41 rotation(x,y,z):-12.902,41.002,-66.279
+03 timestamp(ms):86029.34 rotation(x,y,z):-12.99,40.333,-65.564
+03 timestamp(ms):86052.76 rotation(x,y,z):-13.153,40.973,-66.04
+03 timestamp(ms):86073.95 rotation(x,y,z):-13.267,41.586,-66.724
+03 timestamp(ms):86096.69 rotation(x,y,z):-12.902,41.174,-66.164
+03 timestamp(ms):86118.15 rotation(x,y,z):-13.174,40.675,-65.798
+03 timestamp(ms):86140.67 rotation(x,y,z):-13.445,40.278,-65.589
+03 timestamp(ms):86163.01 rotation(x,y,z):-13.52,39.924,-65.335
+03 timestamp(ms):86185.23 rotation(x,y,z):-13.788,41.254,-66.497
+03 timestamp(ms):86207.13 rotation(x,y,z):-14.131,41.881,-67.471
+03 timestamp(ms):86229.59 rotation(x,y,z):-14.069,41.34,-67.14
+03 timestamp(ms):86251.99 rotation(x,y,z):-13.659,41.066,-66.724
+03 timestamp(ms):86273.82 rotation(x,y,z):-13.698,41.504,-67.156
+03 timestamp(ms):86296.02 rotation(x,y,z):-13.803,41.745,-67.366
+03 timestamp(ms):86318.23 rotation(x,y,z):-14.452,42.155,-68.002
+03 timestamp(ms):86340.49 rotation(x,y,z):-14.505,42.245,-67.97
+03 timestamp(ms):86362.96 rotation(x,y,z):-14.68,41.85,-67.44
+03 timestamp(ms):86385.41 rotation(x,y,z):-14.982,41.391,-66.907
+03 timestamp(ms):86407.46 rotation(x,y,z):-15.336,41.154,-66.639
+03 timestamp(ms):86429.46 rotation(x,y,z):-15.358,41.128,-66.421
+03 timestamp(ms):86451.6 rotation(x,y,z):-15.505,41.031,-66.355
+03 timestamp(ms):86473.9 rotation(x,y,z):-15.488,39.964,-65.277
+03 timestamp(ms):86496.73 rotation(x,y,z):-15.744,39.46,-64.726
+03 timestamp(ms):86518.38 rotation(x,y,z):-16.167,39.15,-64.559
+03 timestamp(ms):86540.47 rotation(x,y,z):-16.298,39.041,-64.478
+03 timestamp(ms):86563.41 rotation(x,y,z):-16.447,39.19,-64.63
+03 timestamp(ms):86585.34 rotation(x,y,z):-16.61,37.521,-63.378
+03 timestamp(ms):86606.98 rotation(x,y,z):-16.368,34.696,-61.171
+03 timestamp(ms):86629.11 rotation(x,y,z):-16.098,31.944,-59.069
+03 timestamp(ms):86651.83 rotation(x,y,z):-16.397,31.898,-59.068
+03 timestamp(ms):86673.77 rotation(x,y,z):-16.061,32.905,-59.967
+03 timestamp(ms):86696.19 rotation(x,y,z):-15.211,31.54,-58.796
+03 timestamp(ms):86718.47 rotation(x,y,z):-14.04,29.806,-57.427
+03 timestamp(ms):86740.2 rotation(x,y,z):-13.448,29.814,-57.27
+03 timestamp(ms):86762.54 rotation(x,y,z):-12.775,30.538,-57.942
+03 timestamp(ms):86784.66 rotation(x,y,z):-11.544,30.979,-58.587
+03 timestamp(ms):86807.13 rotation(x,y,z):-10.658,30.7,-58.354
+03 timestamp(ms):86829.41 rotation(x,y,z):-9.478,30.581,-58.348
+03 timestamp(ms):86851.46 rotation(x,y,z):-9.515,30.698,-58.382
+03 timestamp(ms):86874.03 rotation(x,y,z):-9.402,31.199,-58.902
+03 timestamp(ms):86896.06 rotation(x,y,z):-8.945,31.154,-59.059
+03 timestamp(ms):86918.2 rotation(x,y,z):-8.611,30.621,-58.693
+03 timestamp(ms):86940.09 rotation(x,y,z):-8.456,30.765,-58.752
+03 timestamp(ms):86962.51 rotation(x,y,z):-8.575,31.266,-59.229
+03 timestamp(ms):86984.77 rotation(x,y,z):-8.268,31.045,-59.154
+03 timestamp(ms):87007.09 rotation(x,y,z):-7.936,30.559,-58.721
+03 timestamp(ms):87029.35 rotation(x,y,z):-8.137,30.075,-58.249
+03 timestamp(ms):87051.29 rotation(x,y,z):-8.567,29.903,-57.987
+03 timestamp(ms):87073.48 rotation(x,y,z):-9.193,29.978,-57.977
+03 timestamp(ms):87095.88 rotation(x,y,z):-9.258,29.195,-57.125
+03 timestamp(ms):87118.06 rotation(x,y,z):-8.967,28.549,-56.492
+03 timestamp(ms):87146.33 rotation(x,y,z):-8.311,28.119,-56.148
+03 timestamp(ms):87162.66 rotation(x,y,z):-7.766,28.301,-56.275
+03 timestamp(ms):87184.81 rotation(x,y,z):-7.421,28.813,-56.479
+03 timestamp(ms):87207.36 rotation(x,y,z):-6.85,28.989,-56.597
+03 timestamp(ms):87228.99 rotation(x,y,z):-6.764,28.763,-56.412
+03 timestamp(ms):87251.2 rotation(x,y,z):-6.558,28.915,-56.538
+03 timestamp(ms):87273.49 rotation(x,y,z):-6.129,29.103,-56.657
+03 timestamp(ms):87295.71 rotation(x,y,z):-5.433,29.231,-56.696
+03 timestamp(ms):87317.88 rotation(x,y,z):-5.176,29.359,-56.477
+03 timestamp(ms):87340.22 rotation(x,y,z):-4.927,29.896,-56.981
+03 timestamp(ms):87362.63 rotation(x,y,z):-4.635,29.841,-56.97
+03 timestamp(ms):87384.49 rotation(x,y,z):-4.53,28.626,-56.18
+03 timestamp(ms):87406.7 rotation(x,y,z):-3.995,27.246,-55.394
+03 timestamp(ms):87429 rotation(x,y,z):-3.561,26.42,-54.948
+03 timestamp(ms):87451.29 rotation(x,y,z):-3.253,25.979,-54.704
+03 timestamp(ms):87474.29 rotation(x,y,z):-3.031,26.034,-54.871
+03 timestamp(ms):87496.1 rotation(x,y,z):-2.876,25.91,-55.032
+03 timestamp(ms):87518.45 rotation(x,y,z):-2.496,24.883,-54.542
+03 timestamp(ms):87539.7 rotation(x,y,z):-2.78,23.401,-53.447
+03 timestamp(ms):87562.23 rotation(x,y,z):-3.335,22.404,-52.955
+03 timestamp(ms):87584.58 rotation(x,y,z):-2.509,21.195,-52.721
+03 timestamp(ms):87606.6 rotation(x,y,z):-1.132,29.712,-57.64
+03 timestamp(ms):87629.55 rotation(x,y,z):-3.344,19.859,-51.206
+03 timestamp(ms):87651.6 rotation(x,y,z):-5.015,17.702,-49.666
+03 timestamp(ms):87673.06 rotation(x,y,z):-5.429,15.982,-48.703
+03 timestamp(ms):87695.18 rotation(x,y,z):-2.837,29.271,-57.736
+03 timestamp(ms):87717.45 rotation(x,y,z):-5.337,16.793,-48.215
+03 timestamp(ms):87739.62 rotation(x,y,z):-4.56,16.733,-48.209
+03 timestamp(ms):87761.86 rotation(x,y,z):-5.072,14.992,-47.041
+03 timestamp(ms):87784.19 rotation(x,y,z):-5.742,13.298,-45.054
+03 timestamp(ms):87806.65 rotation(x,y,z):-6.327,20.475,-47.551
+03 timestamp(ms):87828.29 rotation(x,y,z):-6.879,9.164,-39.049
+03 timestamp(ms):87850.72 rotation(x,y,z):-6.424,6.838,-36.959
+03 timestamp(ms):87872.99 rotation(x,y,z):-6.374,3.098,-33.132
+03 timestamp(ms):87895.13 rotation(x,y,z):-6.451,-0.497,-28.996
+03 timestamp(ms):87917.8 rotation(x,y,z):-6.17,-2.539,-26.344
+03 timestamp(ms):87940.48 rotation(x,y,z):-6.558,-4.829,-23.009
+03 timestamp(ms):87961.92 rotation(x,y,z):-7.124,-9.557,-19.505
+03 timestamp(ms):87983.92 rotation(x,y,z):-7.155,-11.307,-18.59
+03 timestamp(ms):88006.22 rotation(x,y,z):-7.19,-12.864,-17.69
+03 timestamp(ms):88028.2 rotation(x,y,z):-6.683,-12.219,-18.678
+03 timestamp(ms):88050.79 rotation(x,y,z):-7.21,-13.342,-18.147
+03 timestamp(ms):88073.1 rotation(x,y,z):-7.627,-13.266,-18.839
+03 timestamp(ms):88094.98 rotation(x,y,z):-7.84,-14.508,-18.202
+03 timestamp(ms):88117.34 rotation(x,y,z):-7.525,-15.133,-18.126
+03 timestamp(ms):88140.16 rotation(x,y,z):-7.241,-15.507,-18.08
+03 timestamp(ms):88161.91 rotation(x,y,z):-7.015,-14.614,-19.104
+03 timestamp(ms):88183.87 rotation(x,y,z):-6.466,-13.722,-20.05
+03 timestamp(ms):88206.24 rotation(x,y,z):-6.252,-14.763,-19.329
+03 timestamp(ms):88228.7 rotation(x,y,z):-5.709,-16.539,-17.901
+03 timestamp(ms):88250.63 rotation(x,y,z):-5.38,-19.031,-15.787
+03 timestamp(ms):88273.03 rotation(x,y,z):-5.38,-20.202,-14.839
+03 timestamp(ms):88295 rotation(x,y,z):-5.541,-20.425,-14.763
+03 timestamp(ms):88317.13 rotation(x,y,z):-5.44,-21.5,-13.87
+03 timestamp(ms):88339.24 rotation(x,y,z):-5.349,-22.742,-12.684
+03 timestamp(ms):88361.89 rotation(x,y,z):-6.813,-21.808,-13.043
+03 timestamp(ms):88383.95 rotation(x,y,z):-5.944,-26.322,-9.484
+03 timestamp(ms):88405.99 rotation(x,y,z):-5.998,-26.531,-9.256
+03 timestamp(ms):88428.46 rotation(x,y,z):-5.91,-27.312,-8.615
+03 timestamp(ms):88450.5 rotation(x,y,z):-6.011,-28.925,-6.928
+03 timestamp(ms):88472.91 rotation(x,y,z):-5.502,-30.124,-5.479
+03 timestamp(ms):88494.98 rotation(x,y,z):-5.25,-30.467,-4.907
+03 timestamp(ms):88517.3 rotation(x,y,z):-4.981,-31.631,-3.796
+03 timestamp(ms):88539.77 rotation(x,y,z):-4.534,-33.159,-2.465
+03 timestamp(ms):88562.05 rotation(x,y,z):-4.308,-33.922,-1.87
+03 timestamp(ms):88584.24 rotation(x,y,z):-4.357,-33.796,-2.061
+03 timestamp(ms):88606.02 rotation(x,y,z):-4.323,-34.318,-1.504
+03 timestamp(ms):88628.7 rotation(x,y,z):-4.009,-34.223,-1.729
+03 timestamp(ms):88650.33 rotation(x,y,z):-3.992,-34.175,-2.281
+03 timestamp(ms):88672.77 rotation(x,y,z):-3.494,-36.913,-0.173
+03 timestamp(ms):88695.21 rotation(x,y,z):-1.123,-40.837,3.215
+03 timestamp(ms):88717.35 rotation(x,y,z):0.657,-42.717,5.371
+03 timestamp(ms):88741.05 rotation(x,y,z):0.716,-46.798,8.783
+03 timestamp(ms):88760.78 rotation(x,y,z):1.087,-49.76,10.939
+03 timestamp(ms):88783.17 rotation(x,y,z):1.563,-52.091,12.654
+03 timestamp(ms):88805.33 rotation(x,y,z):2.394,-53.668,14.001
+03 timestamp(ms):88827.74 rotation(x,y,z):3.6,-54.842,15.063
+03 timestamp(ms):88849.75 rotation(x,y,z):5.548,-57.609,17.264
+03 timestamp(ms):88872.25 rotation(x,y,z):6.81,-59.473,18.578
+03 timestamp(ms):88894.41 rotation(x,y,z):8.22,-61.01,19.357
+03 timestamp(ms):88916.57 rotation(x,y,z):10.349,-63.244,20.62
+03 timestamp(ms):88939.13 rotation(x,y,z):12.002,-64.696,21.471
+03 timestamp(ms):88961.06 rotation(x,y,z):13.179,-66.098,22.224
+03 timestamp(ms):88983.19 rotation(x,y,z):14.232,-68.502,23.418
+03 timestamp(ms):89006.08 rotation(x,y,z):15.624,-71.236,24.728
+03 timestamp(ms):89027.5 rotation(x,y,z):16.541,-73.177,25.391
+03 timestamp(ms):89049.93 rotation(x,y,z):16.778,-73.427,25.149
+03 timestamp(ms):89071.99 rotation(x,y,z):17.22,-74.189,25.41
+03 timestamp(ms):89094.13 rotation(x,y,z):17.401,-75.184,25.763
+03 timestamp(ms):89117.54 rotation(x,y,z):17.582,-76.34,26.046
+03 timestamp(ms):89139.16 rotation(x,y,z):17.784,-76.819,25.981
+03 timestamp(ms):89161.98 rotation(x,y,z):17.678,-76.646,25.73
+03 timestamp(ms):89182.97 rotation(x,y,z):17.594,-76.176,25.505
+03 timestamp(ms):89205.47 rotation(x,y,z):17.61,-76.2,25.653
+03 timestamp(ms):89227.28 rotation(x,y,z):17.972,-76.955,26.277
+03 timestamp(ms):89249.42 rotation(x,y,z):18.072,-77.025,26.422
+03 timestamp(ms):89272.77 rotation(x,y,z):17.922,-76.5,26.514
+03 timestamp(ms):89294.02 rotation(x,y,z):18.002,-76.499,26.674
+03 timestamp(ms):89316.28 rotation(x,y,z):18.248,-76.891,27.018
+03 timestamp(ms):89338.55 rotation(x,y,z):18.753,-77.587,27.495
+03 timestamp(ms):89360.78 rotation(x,y,z):19.241,-78.607,28.148
+03 timestamp(ms):89382.98 rotation(x,y,z):19.357,-79.153,28.465
+21E timestamp(ms):89437.18  stage:2 time_period:5 sway_degree:-45 #_of_sways:4 rep:2
+

@@ -1,0 +1,9 @@
+00 Data was recorded 60 times per second
+00 Date and Time: 2/26/2024 2:58:04 PM
+
+00  BertecForcePlate_Recorder = 01
+00  Raft = 02
+00  Tracker = 03
+00  SwayEvent = 21
+
+

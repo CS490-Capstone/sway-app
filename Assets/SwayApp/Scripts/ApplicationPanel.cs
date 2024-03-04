@@ -162,7 +162,8 @@ public class ApplicationPanel : MonoBehaviour
     public void UpdateDataRecorderHeaderInfo()
     {
         string textFileName = string.Empty; 
-
+        //string textFileName = "data"; 
+        
         if (experimentName.text != string.Empty)
         {
             DataRecorder.Instance.headingInfo.Add(experimentName.text);
@@ -174,7 +175,7 @@ public class ApplicationPanel : MonoBehaviour
             DataRecorder.Instance.headingInfo.Add(subjectID.text);
             textFileName += subjectID.text;
         }
-
+        /*
         if (additionalInfo.text != string.Empty)
         {
             DataRecorder.Instance.headingInfo.Add(additionalInfo.text);
@@ -210,7 +211,7 @@ public class ApplicationPanel : MonoBehaviour
             DataRecorder.Instance.headingInfo.Add(heightInfo.text);
             textFileName += heightInfo.text;
         }
-
+        */
         ChangeDataTextFileName(textFileName);
     }
 

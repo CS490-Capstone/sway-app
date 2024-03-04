@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System;
@@ -206,11 +206,32 @@ public class DataRecorder : MonoBehaviour
     {
         date = System.DateTime.Now;
 
-        string path;
-       // path = Application.dataPath + "/DataRecorder/RecordedData/" + exportedFileName;   // path where the text file will be exported to
-        path = Application.streamingAssetsPath + "/RecordedData/" + exportedFileName;
+        string path; 
+        // path = Application.dataPath + "/DataRecorder/RecordedData/" + exportedFileName;   // path where the text file will be exported to
+        path = Application.streamingAssetsPath + "/NewData/" + exportedFileName;       //Updated Path for new raw text data
         Debug.Log(path);
-       if (!File.Exists(path) || OverWriteExistingDataLog)  // create new text file if it doesn't exist or overwrite existing text file
+        
+        // Change the file name if it already exists and remove .txt from the end of the string
+        string getFileName = exportedFileName;     //Grab old file name
+        string pattern = ".{4}$";      // Define a regular expression pattern to match the last 4 characters
+        string result = Regex.Replace(getFileName, pattern, "");          // Use Regex.Replace to remove the last 4 characters
+
+        // Generate a time for when the file that was overwritten 
+        DateTime currentDateTime = DateTime.Now;
+        string copyTime = currentDateTime.ToString("HH-mm-ss");
+        string newFileName = result + "_" + copyTime + ".txt";
+
+        // Get the paths of the overwritten file and save to copies 
+        string copyOriginal = Application.streamingAssetsPath + "/NewData/" + exportedFileName;
+        string pasteBack = Application.streamingAssetsPath + "/NewData/OverwrittenFiles/" + newFileName;
+
+
+        if (File.Exists(path))
+        {
+            File.Copy(copyOriginal, pasteBack);   //Copy File from the previously saved paths
+        }
+
+        if (!File.Exists(path) || OverWriteExistingDataLog)  // create new text file if it doesn't exist or overwrite existing text file
             File.WriteAllText(path, string.Empty);
 
         foreach (string heading in headingInfo)  // writes all the heading information into the text file

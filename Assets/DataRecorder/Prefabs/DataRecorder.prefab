@@ -43,12 +43,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0bf86cc70a295a64892abdb301b40679, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  targetFrameRate: 60
+  timesToRecordPerSec: 60
+  onTimesToRecordPerSecChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  onDataExportingFinished:
+    m_PersistentCalls:
+      m_Calls: []
   exportedFileName: data.txt
+  exportDataOnClose: 1
   overwriteExistingDatalog: 1
   showFPS: 0
   headingInfo: []
-  includeTargetFrameRate: 1
+  includeRecordPerSec: 1
   includeDateTime: 1
   includeEventTimestamp: 1
   eventsList:

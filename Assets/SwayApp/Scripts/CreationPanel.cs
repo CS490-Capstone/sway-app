@@ -40,7 +40,7 @@ public class CreationPanel : MonoBehaviour
         path = Application.streamingAssetsPath + "/Sway_Files/Sway.txt";
         sway = 0;
         gameStart = false;
-        stagenum = GetLastLine()+1;
+        stagenum = GetLastLine() + 1;
         black = 0;
 
     }
@@ -107,7 +107,7 @@ public class CreationPanel : MonoBehaviour
         */
 
         Debug.Log(lineList[lineCounter - 1]);
-        
+
 
         //get first number by getting string before first comma
         string lastLine = lineList[lineCounter - 1].ToString();
@@ -124,7 +124,7 @@ public class CreationPanel : MonoBehaviour
         }
 
         Debug.Log(lineList[lineCounter - 1].ToString().Substring(0, linePostion));
-        return int.Parse(lineList[lineCounter-1].ToString().Substring(0,linePostion));
+        return int.Parse(lineList[lineCounter - 1].ToString().Substring(0, linePostion));
 
     }
 
@@ -172,7 +172,7 @@ public class CreationPanel : MonoBehaviour
 
             stagenum--;
         }
-        
+
 
         /*
         string message = stagenum + ", " + waveDurration.text + ", " + rotation.text + ", " + swayTotal.text + ", " + sway;
